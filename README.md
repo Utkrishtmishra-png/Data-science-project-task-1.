@@ -1,2 +1,2 @@
 # Data-science-project-task-1.
-This is my data science project task 1, 2 ,3 and 4 . During my data science 3 months internship in Skybrick.
+This is my data science project task 1, 2 ,3 and 4 of month 1 . During my 3 months Data Science internship in Skybrick.
