@@ -1,0 +1,57 @@
+order_id,customer_name,city,product,quantity,unit_price
+1047,Chen Garcia,Madison,Backpack,1,35.61
+1023,Grace Nguyen,Georgetown,Wireless Mouse,2,8.7
+1037,Farah Nguyen,Springfield,Desk Lamp,2,31.29
+1012,Farah Haddad,Madison,Desk Lamp,5,48.83
+1022,Alice Tanaka,Franklin,Water Bottle,4,26.89
+1055,Chen Tanaka,Springfield,Desk Lamp,4,13.95
+1034,Elena Tanaka,Franklin,Water Bottle,3,29.6
+1031,Chen Haddad,Madison,Water Bottle,5,23.13
+1036,Diego Tanaka,Madison,Wireless Mouse,4,55.01
+1008,Hiro Haddad,Riverside,Backpack,2,9.5
+1039,Bob Garcia,Riverside,Wireless Mouse,2,37.49
+1013,Bob Nguyen,Georgetown,Backpack,1,8.34
+1042,Chen Brown,Riverside,USB-C Cable,1,18.85
+1059,Bob Nguyen,Riverside,Wireless Mouse,1,19.61
+1018,Grace Silva,Georgetown,Notebook,4,57.68
+1043,Elena Silva,Madison,Notebook,3,34.94
+1002,Bob Kim,Georgetown,Wireless Mouse,5,11.81
+1049,Diego Rossi,Springfield,Water Bottle,4,35.9
+1030,Alice Silva,Franklin,Wireless Mouse,3,33.51
+1025,Jamal Garcia,Fairview,Water Bottle,1,8.87
+1048,Farah Silva,Georgetown,Wireless Mouse,5,8.13
+1057,Farah Haddad,Fairview,Wireless Mouse,3,35.47
+1024,Diego Tanaka,Fairview,Water Bottle,1,10.63
+1032,Diego Khan,Riverside,USB-C Cable,4,45.69
+1028,Bob Garcia,Fairview,Backpack,3,31.32
+1020,Jamal Garcia,Springfield,USB-C Cable,4,34.4
+1009,Elena Silva,Fairview,Backpack,4,20.84
+1006,Diego Haddad,Franklin,Wireless Mouse,5,8.28
+1050,Bob Tanaka,Madison,Water Bottle,5,15.97
+1003,Diego Khan,Madison,Water Bottle,4,7.73
+1046,Ines Smith,Riverside,Water Bottle,1,47.68
+1010,Bob Nguyen,Riverside,Notebook,2,56.33
+1045,Ines Brown,Madison,USB-C Cable,5,13.35
+1015,Farah Smith,Fairview,USB-C Cable,5,11.44
+1056,Diego Garcia,Madison,Desk Lamp,3,28.17
+1026,Diego Khan,Franklin,Notebook,3,38.13
+1017,Hiro Nguyen,Georgetown,Water Bottle,3,53.59
+1021,Jamal Khan,Riverside,Backpack,5,57.26
+1000,Farah Garcia,Springfield,Wireless Mouse,5,10.18
+1029,Chen Silva,Madison,Notebook,2,42.95
+1052,Elena Silva,Riverside,Desk Lamp,2,27.92
+1058,Hiro Smith,Madison,Water Bottle,3,33.17
+1014,Elena Khan,Georgetown,Notebook,4,53.79
+1038,Chen Brown,Fairview,Wireless Mouse,4,30.47
+1053,Grace Tanaka,Franklin,USB-C Cable,4,9.02
+1016,Alice Kim,Riverside,Backpack,2,26.88
+1005,Bob Khan,Franklin,USB-C Cable,1,36.99
+1040,Hiro Garcia,Madison,Desk Lamp,3,13.58
+1001,Jamal Smith,Riverside,Wireless Mouse,1,28.85
+1004,Diego Smith,Riverside,Notebook,4,12.93
+1027,Hiro Nguyen,Georgetown,Desk Lamp,4,31.61
+1044,Chen Smith,Fairview,Desk Lamp,5,49.83
+1007,Diego Tanaka,Georgetown,Notebook,4,37.21
+1035,Farah Haddad,Springfield,USB-C Cable,4,15.82
+1011,Grace Smith,Springfield,Water Bottle,5,48.4
+1041,Ines Garcia,Franklin,Backpack,1,33.96

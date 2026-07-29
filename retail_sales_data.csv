@@ -1,0 +1,1826 @@
+date,store,category,units_sold,revenue,temperature_c
+2026-02-21,Downtown,Snacks,77.0,231.0,14.9
+2026-02-18,Downtown,Produce,54.0,108.0,16.1
+2026-03-13,Riverside,Ice Cream,81.0,364.5,24.5
+2026-01-07,Uptown,Beverages,103.0,257.5,3.0
+2026-02-11,Suburb Mall,Produce,52.0,104.0,7.3
+2026-03-27,Uptown,Snacks,90.0,270.0,14.8
+2026-02-07,Downtown,Snacks,97.0,291.0,10.4
+2026-02-08,Downtown,Snacks,101.0,303.0,11.4
+2026-01-29,Riverside,Snacks,100.0,300.0,12.2
+2026-01-31,Suburb Mall,Bakery,75.0,262.5,4.9
+2026-02-17,Suburb Mall,Beverages,114.0,285.0,15.5
+2026-01-14,Downtown,Beverages,106.0,265.0,7.2
+2026-02-03,Downtown,Snacks,87.0,261.0,12.3
+2026-02-12,Suburb Mall,Ice Cream,45.0,202.5,10.5
+2026-02-22,Downtown,Ice Cream,56.0,252.0,15.8
+2026-01-22,Riverside,Snacks,95.0,285.0,8.4
+2026-01-18,Riverside,Produce,75.0,150.0,7.0
+2026-03-11,Downtown,Produce,70.0,140.0,16.6
+2026-01-31,Uptown,Beverages,127.0,317.5,4.9
+2026-03-04,Suburb Mall,Beverages,115.0,287.5,14.8
+2026-02-13,Uptown,Bakery,75.0,262.5,16.0
+2026-01-13,Suburb Mall,Bakery,,189.0,13.4
+2026-01-18,Suburb Mall,Snacks,114.0,342.0,7.0
+2026-01-22,Uptown,Produce,70.0,140.0,8.4
+2026-03-21,Riverside,Produce,85.0,170.0,21.6
+2026-03-02,Uptown,Bakery,88.0,308.0,16.7
+2026-01-23,Uptown,Snacks,81.0,243.0,6.6
+2026-03-30,Suburb Mall,Beverages,141.0,352.5,22.6
+2026-02-28,Downtown,Produce,66.0,132.0,12.2
+2026-01-30,Suburb Mall,Snacks,80.0,240.0,14.3
+2026-03-13,Riverside,Bakery,71.0,248.5,24.5
+2026-03-14,Riverside,Beverages,110.0,275.0,14.8
+2026-01-28,Riverside,Produce,65.0,130.0,6.5
+2026-03-13,Downtown,Snacks,99.0,297.0,24.5
+2026-03-03,Downtown,Bakery,56.0,196.0,14.7
+2026-02-21,Suburb Mall,Beverages,125.0,312.5,14.9
+2026-03-24,Uptown,Snacks,117.0,351.0,20.9
+2026-01-03,Uptown,Produce,49.0,98.0,5.0
+2026-01-18,Suburb Mall,Ice Cream,21.0,94.5,7.0
+2026-01-15,Uptown,Snacks,82.0,246.0,8.4
+2026-03-26,Downtown,Snacks,120.0,360.0,18.3
+2026-01-04,Suburb Mall,Snacks,83.0,249.0,1.9
+2026-01-30,Suburb Mall,Ice Cream,51.0,229.5,14.3
+2026-02-08,Riverside,Produce,63.0,126.0,11.4
+2026-03-29,Uptown,Beverages,130.0,325.0,23.7
+2026-01-22,Uptown,Bakery,,238.0,8.4
+2026-02-18,Uptown,Snacks,95.0,285.0,16.1
+2026-02-07,Downtown,Beverages,119.0,297.5,10.4
+2026-01-14,Riverside,Bakery,75.0,262.5,7.2
+2026-01-29,Suburb Mall,Ice Cream,37.0,166.5,12.2
+2026-01-08,Downtown,Produce,47.0,94.0,2.2
+2026-03-01,Uptown,Bakery,77.0,269.5,19.7
+2026-02-28,Suburb Mall,Ice Cream,66.0,297.0,12.2
+2026-02-05,Downtown,Produce,39.0,78.0,12.3
+2026-02-23,Suburb Mall,Produce,68.0,136.0,15.3
+2026-02-16,Uptown,Produce,54.0,108.0,10.6
+2026-01-28,Riverside,Beverages,100.0,250.0,6.5
+2026-01-07,Suburb Mall,Ice Cream,22.0,99.0,3.0
+2026-02-06,Suburb Mall,Bakery,52.0,182.0,12.5
+2026-01-21,Downtown,Produce,78.0,156.0,14.5
+2026-03-31,Downtown,Snacks,91.0,273.0,18.6
+2026-03-31,Uptown,Produce,54.0,108.0,18.6
+2026-03-14,Downtown,Snacks,91.0,273.0,14.8
+2026-02-07,Downtown,Produce,64.0,128.0,10.4
+2026-01-18,Downtown,Ice Cream,37.0,166.5,7.0
+2026-02-14,Uptown,Beverages,116.0,290.0,15.9
+2026-01-26,Downtown,Snacks,87.0,261.0,3.8
+2026-02-22,Uptown,Bakery,,133.0,15.8
+2026-03-29,Uptown,Ice Cream,85.0,382.5,23.7
+2026-01-28,Uptown,Produce,67.0,134.0,6.5
+2026-02-19,Riverside,Snacks,84.0,252.0,10.1
+2026-03-26,Uptown,Ice Cream,57.0,256.5,18.3
+2026-03-06,Uptown,Produce,57.0,,18.5
+2026-01-11,Riverside,Bakery,63.0,220.5,8.4
+2026-02-02,Downtown,Snacks,72.0,216.0,9.3
+2026-01-07,Riverside,Ice Cream,4.0,18.0,3.0
+2026-03-01,Uptown,Produce,46.0,92.0,19.7
+2026-03-05,Suburb Mall,Bakery,78.0,273.0,17.0
+2026-01-05,Uptown,Bakery,62.0,217.0,3.2
+2026-01-15,Downtown,Bakery,78.0,273.0,8.4
+2026-02-28,Uptown,Ice Cream,47.0,211.5,12.2
+2026-03-10,Downtown,Beverages,119.0,297.5,15.7
+2026-01-05,Uptown,Ice Cream,11.0,49.5,3.2
+2026-01-23,Uptown,Ice Cream,26.0,117.0,6.6
+2026-03-30,Downtown,Bakery,61.0,213.5,22.6
+2026-03-25,Uptown,Produce,44.0,88.0,22.3
+2026-01-16,Uptown,Snacks,78.0,234.0,7.6
+2026-03-09,Riverside,Beverages,143.0,357.5,20.7
+2026-03-31,Riverside,Bakery,67.0,234.5,18.6
+2026-03-01,Suburb Mall,Beverages,110.0,275.0,19.7
+2026-02-20,Suburb Mall,Produce,60.0,120.0,11.5
+2026-02-16,Downtown,Ice Cream,24.0,108.0,10.6
+2026-01-12,Riverside,Snacks,,297.0,7.5
+2026-01-06,Riverside,Bakery,77.0,269.5,7.0
+2026-02-12,Uptown,Bakery,76.0,266.0,10.5
+2026-02-13,Riverside,Ice Cream,65.0,292.5,16.0
+2026-01-31,Uptown,Bakery,51.0,178.5,4.9
+2026-01-12,Uptown,Beverages,120.0,300.0,7.5
+2026-02-21,Suburb Mall,Ice Cream,52.0,234.0,14.9
+2026-01-19,Riverside,Produce,84.0,168.0,14.6
+2026-01-21,Uptown,Snacks,100.0,300.0,14.5
+2026-03-02,Downtown,Beverages,124.0,310.0,16.7
+2026-01-07,Uptown,Snacks,92.0,276.0,3.0
+2026-03-10,Riverside,Ice Cream,71.0,319.5,15.7
+2026-01-07,Suburb Mall,Bakery,75.0,262.5,3.0
+2026-03-26,Suburb Mall,Bakery,83.0,290.5,18.3
+2026-02-12,Riverside,Ice Cream,,220.5,10.5
+2026-02-04,Downtown,Produce,59.0,118.0,10.6
+2026-03-11,Downtown,Ice Cream,62.0,279.0,16.6
+2026-01-04,Riverside,Beverages,84.0,210.0,1.9
+2026-02-23,Suburb Mall,Snacks,96.0,288.0,15.3
+2026-01-14,Suburb Mall,Snacks,86.0,258.0,7.2
+2026-03-05,Riverside,Ice Cream,53.0,238.5,17.0
+2026-01-03,Suburb Mall,Bakery,65.0,227.5,5.0
+2026-03-25,Suburb Mall,Produce,46.0,92.0,22.3
+2026-03-05,Riverside,Snacks,89.0,267.0,17.0
+2026-02-04,Riverside,Produce,50.0,100.0,10.6
+2026-02-28,Riverside,Ice Cream,30.0,135.0,12.2
+2026-01-12,Riverside,Beverages,124.0,310.0,7.5
+2026-01-04,Uptown,Ice Cream,34.0,153.0,1.9
+2026-03-30,Suburb Mall,Produce,53.0,106.0,22.6
+2026-02-04,Suburb Mall,Snacks,78.0,234.0,10.6
+2026-02-16,Riverside,Ice Cream,50.0,225.0,10.6
+2026-02-17,Suburb Mall,Bakery,83.0,290.5,15.5
+2026-03-19,Uptown,Bakery,67.0,234.5,15.6
+2026-03-08,Uptown,Produce,48.0,96.0,19.9
+2026-01-15,Suburb Mall,Beverages,116.0,290.0,8.4
+2026-02-09,Uptown,Bakery,67.0,234.5,14.7
+2026-03-14,Uptown,Bakery,79.0,276.5,14.8
+2026-03-31,Riverside,Snacks,113.0,339.0,18.6
+2026-02-14,Riverside,Bakery,75.0,262.5,15.9
+2026-02-28,Downtown,Beverages,146.0,365.0,12.2
+2026-02-25,Riverside,Produce,72.0,144.0,17.2
+2026-02-24,Uptown,Snacks,108.0,324.0,13.3
+2026-03-02,Uptown,Produce,76.0,152.0,16.7
+2026-02-13,Suburb Mall,Beverages,125.0,312.5,16.0
+2026-03-22,Downtown,Bakery,60.0,210.0,19.5
+2026-03-05,Suburb Mall,Produce,77.0,154.0,17.0
+2026-03-21,Downtown,Produce,81.0,162.0,21.6
+2026-03-02,Downtown,Bakery,75.0,262.5,16.7
+2026-01-02,Riverside,Snacks,74.0,222.0,4.5
+2026-03-06,Riverside,Produce,66.0,132.0,18.5
+2026-01-06,Downtown,Ice Cream,34.0,153.0,7.0
+2026-03-26,Downtown,Beverages,114.0,285.0,18.3
+2026-02-13,Downtown,Ice Cream,41.0,184.5,16.0
+2026-01-03,Riverside,Bakery,57.0,199.5,5.0
+2026-03-17,Riverside,Produce,50.0,100.0,17.4
+2026-03-12,Riverside,Bakery,77.0,269.5,20.3
+2026-02-19,Riverside,Produce,57.0,114.0,10.1
+2026-01-19,Suburb Mall,Ice Cream,33.0,148.5,14.6
+2026-03-09,Uptown,Beverages,151.0,377.5,20.7
+2026-03-26,Downtown,Bakery,75.0,262.5,18.3
+2026-01-16,Suburb Mall,Snacks,89.0,,7.6
+2026-03-20,Uptown,Bakery,88.0,308.0,24.2
+2026-02-03,Riverside,Beverages,102.0,255.0,12.3
+2026-01-14,Uptown,Snacks,89.0,267.0,7.2
+2026-03-03,Riverside,Snacks,102.0,306.0,14.7
+2026-02-24,Uptown,Ice Cream,48.0,216.0,13.3
+2026-01-04,Downtown,Produce,60.0,120.0,1.9
+2026-02-20,Downtown,Snacks,96.0,288.0,11.5
+2026-03-20,Riverside,Ice Cream,86.0,387.0,24.2
+2026-02-01,Downtown,Beverages,118.0,295.0,13.5
+2026-01-27,Suburb Mall,Produce,36.0,72.0,11.1
+2026-03-29,Downtown,Ice Cream,89.0,400.5,23.7
+2026-03-27,Suburb Mall,Ice Cream,36.0,162.0,14.8
+2026-01-03,Suburb Mall,Ice Cream,19.0,85.5,5.0
+2026-03-17,Suburb Mall,Bakery,45.0,157.5,17.4
+2026-03-20,Downtown,Produce,72.0,144.0,24.2
+2026-03-21,Riverside,Ice Cream,70.0,315.0,21.6
+2026-01-04,Uptown,Snacks,90.0,270.0,1.9
+2026-02-13,Downtown,Beverages,125.0,312.5,16.0
+2026-01-25,Uptown,Ice Cream,28.0,126.0,7.0
+2026-02-20,Suburb Mall,Snacks,104.0,312.0,11.5
+2026-03-28,Uptown,Beverages,144.0,360.0,20.1
+2026-03-13,Suburb Mall,Beverages,,345.0,24.5
+2026-01-21,Riverside,Snacks,89.0,267.0,14.5
+2026-01-04,Uptown,Bakery,65.0,227.5,1.9
+2026-01-10,Uptown,Bakery,66.0,231.0,2.0
+2026-03-08,Uptown,Snacks,96.0,288.0,19.9
+2026-01-17,Suburb Mall,Ice Cream,25.0,112.5,5.2
+2026-02-24,Uptown,Beverages,118.0,295.0,13.3
+2026-02-01,Riverside,Snacks,85.0,255.0,13.5
+2026-02-02,Uptown,Produce,53.0,106.0,9.3
+2026-02-21,Downtown,Bakery,66.0,,14.9
+2026-03-26,Riverside,Ice Cream,64.0,288.0,18.3
+2026-01-21,Riverside,Produce,63.0,126.0,14.5
+2026-01-08,Riverside,Bakery,75.0,262.5,2.2
+2026-03-16,Uptown,Beverages,123.0,307.5,16.7
+2026-03-15,Riverside,Bakery,,266.0,16.7
+2026-01-24,Riverside,Bakery,67.0,234.5,9.4
+2026-03-20,Downtown,Ice Cream,99.0,445.5,24.2
+2026-01-08,Uptown,Ice Cream,8.0,36.0,2.2
+2026-02-01,Suburb Mall,Ice Cream,63.0,283.5,13.5
+2026-01-23,Uptown,Produce,40.0,80.0,6.6
+2026-02-19,Uptown,Produce,72.0,144.0,10.1
+2026-02-26,Riverside,Ice Cream,26.0,117.0,9.3
+2026-01-09,Downtown,Produce,61.0,122.0,5.6
+2026-02-28,Downtown,Ice Cream,50.0,225.0,12.2
+2026-03-13,Suburb Mall,Ice Cream,101.0,454.5,24.5
+2026-03-02,Downtown,Snacks,,297.0,16.7
+2026-02-11,Downtown,Produce,62.0,124.0,7.3
+2026-01-30,Riverside,Produce,81.0,162.0,14.3
+2026-01-13,Riverside,Bakery,91.0,318.5,13.4
+2026-03-17,Uptown,Beverages,137.0,342.5,17.4
+2026-01-29,Uptown,Bakery,59.0,206.5,12.2
+2026-03-01,Suburb Mall,Ice Cream,74.0,333.0,19.7
+2026-02-20,Uptown,Beverages,120.0,300.0,11.5
+2026-03-24,Suburb Mall,Ice Cream,71.0,319.5,20.9
+2026-01-02,Uptown,Snacks,80.0,240.0,4.5
+2026-02-08,Riverside,Beverages,109.0,272.5,11.4
+2026-03-14,Uptown,Beverages,110.0,275.0,14.8
+2026-01-23,Riverside,Beverages,134.0,335.0,6.6
+2026-01-24,Uptown,Ice Cream,55.0,247.5,9.4
+2026-03-01,Riverside,Snacks,104.0,312.0,19.7
+2026-03-28,Suburb Mall,Bakery,80.0,280.0,20.1
+2026-01-14,Downtown,Snacks,94.0,282.0,7.2
+2026-02-04,Riverside,Bakery,63.0,220.5,10.6
+2026-02-02,Suburb Mall,Snacks,94.0,282.0,9.3
+2026-02-02,Suburb Mall,Produce,46.0,92.0,9.3
+2026-03-12,Riverside,Produce,76.0,152.0,20.3
+2026-02-13,Uptown,Snacks,89.0,267.0,16.0
+2026-03-28,Riverside,Bakery,73.0,255.5,20.1
+2026-03-27,Uptown,Produce,53.0,106.0,14.8
+2026-03-13,Uptown,Beverages,141.0,352.5,24.5
+2026-01-03,Downtown,Snacks,69.0,207.0,5.0
+2026-02-12,Downtown,Beverages,132.0,330.0,10.5
+2026-01-26,Riverside,Bakery,59.0,206.5,3.8
+2026-02-05,Downtown,Bakery,83.0,290.5,12.3
+2026-03-21,Suburb Mall,Ice Cream,93.0,418.5,21.6
+2026-01-31,Suburb Mall,Beverages,85.0,212.5,4.9
+2026-01-18,Suburb Mall,Bakery,78.0,273.0,7.0
+2026-02-26,Riverside,Bakery,70.0,245.0,9.3
+2026-03-17,Downtown,Beverages,104.0,260.0,17.4
+2026-01-02,Riverside,Produce,59.0,118.0,4.5
+2026-01-20,Riverside,Beverages,129.0,322.5,11.9
+2026-03-22,Uptown,Snacks,97.0,291.0,19.5
+2026-01-19,Suburb Mall,Beverages,136.0,340.0,14.6
+2026-01-12,Riverside,Bakery,64.0,224.0,7.5
+2026-03-22,Suburb Mall,Produce,68.0,136.0,19.5
+2026-03-15,Riverside,Snacks,98.0,294.0,16.7
+2026-01-30,Uptown,Bakery,77.0,269.5,14.3
+2026-02-27,Suburb Mall,Ice Cream,73.0,328.5,16.2
+2026-03-01,Downtown,Snacks,92.0,276.0,19.7
+2026-03-20,Suburb Mall,Snacks,93.0,279.0,24.2
+2026-01-08,Uptown,Snacks,89.0,267.0,2.2
+2026-03-12,Uptown,Produce,73.0,146.0,20.3
+2026-02-19,Downtown,Beverages,116.0,290.0,10.1
+2026-01-16,Suburb Mall,Beverages,108.0,270.0,7.6
+2026-01-17,Suburb Mall,Snacks,85.0,255.0,5.2
+2026-01-25,Suburb Mall,Beverages,98.0,245.0,7.0
+2026-03-13,Downtown,Bakery,101.0,353.5,24.5
+2026-03-09,Downtown,Bakery,82.0,287.0,20.7
+2026-01-27,Downtown,Bakery,71.0,248.5,11.1
+2026-02-01,Riverside,Produce,58.0,116.0,13.5
+2026-01-09,Downtown,Ice Cream,17.0,76.5,5.6
+2026-03-01,Uptown,Ice Cream,59.0,265.5,19.7
+2026-02-08,Riverside,Ice Cream,,171.0,11.4
+2026-03-30,Uptown,Ice Cream,94.0,423.0,22.6
+2026-02-04,Downtown,Bakery,65.0,227.5,10.6
+2026-02-07,Riverside,Bakery,72.0,252.0,10.4
+2026-01-24,Downtown,Bakery,56.0,196.0,9.4
+2026-03-30,Suburb Mall,Snacks,76.0,228.0,22.6
+2026-01-07,Suburb Mall,Snacks,88.0,264.0,3.0
+2026-01-05,Riverside,Beverages,99.0,247.5,3.2
+2026-01-11,Uptown,Produce,86.0,172.0,8.4
+2026-01-07,Suburb Mall,Produce,41.0,82.0,3.0
+2026-03-22,Suburb Mall,Beverages,112.0,280.0,19.5
+2026-02-27,Downtown,Produce,64.0,128.0,16.2
+2026-02-22,Suburb Mall,Beverages,115.0,287.5,15.8
+2026-01-09,Suburb Mall,Beverages,115.0,287.5,5.6
+2026-01-27,Riverside,Produce,85.0,170.0,11.1
+2026-03-12,Uptown,Bakery,69.0,241.5,20.3
+2026-03-06,Riverside,Ice Cream,70.0,315.0,18.5
+2026-01-13,Suburb Mall,Snacks,93.0,279.0,13.4
+2026-02-03,Suburb Mall,Bakery,64.0,224.0,12.3
+2026-03-15,Uptown,Bakery,93.0,325.5,16.7
+2026-02-02,Suburb Mall,Bakery,83.0,,9.3
+2026-01-09,Downtown,Bakery,66.0,231.0,5.6
+2026-02-25,Riverside,Ice Cream,68.0,306.0,17.2
+2026-02-17,Uptown,Beverages,114.0,,15.5
+2026-02-05,Suburb Mall,Produce,92.0,184.0,12.3
+2026-01-12,Downtown,Bakery,76.0,266.0,7.5
+2026-02-27,Uptown,Bakery,64.0,224.0,16.2
+2026-01-28,Suburb Mall,Produce,48.0,96.0,6.5
+2026-03-10,Downtown,Bakery,83.0,290.5,15.7
+2026-02-06,Riverside,Produce,54.0,108.0,12.5
+2026-01-22,Uptown,Beverages,107.0,267.5,8.4
+2026-02-10,Suburb Mall,Produce,63.0,126.0,11.5
+2026-02-03,Uptown,Ice Cream,59.0,265.5,12.3
+2026-01-22,Uptown,Ice Cream,22.0,99.0,8.4
+2026-02-05,Suburb Mall,Ice Cream,59.0,265.5,12.3
+2026-02-06,Riverside,Beverages,142.0,355.0,12.5
+2026-03-20,Suburb Mall,Ice Cream,84.0,378.0,24.2
+2026-03-09,Uptown,Bakery,76.0,266.0,20.7
+2026-03-16,Riverside,Snacks,94.0,,16.7
+2026-03-09,Downtown,Beverages,121.0,302.5,20.7
+2026-03-29,Downtown,Beverages,125.0,312.5,23.7
+2026-03-08,Downtown,Produce,56.0,112.0,19.9
+2026-02-19,Downtown,Produce,54.0,108.0,10.1
+2026-03-24,Downtown,Snacks,84.0,252.0,20.9
+2026-03-06,Suburb Mall,Produce,78.0,156.0,18.5
+2026-03-28,Uptown,Ice Cream,67.0,301.5,20.1
+2026-02-11,Riverside,Ice Cream,31.0,139.5,7.3
+2026-01-12,Downtown,Ice Cream,58.0,261.0,7.5
+2026-01-05,Uptown,Produce,51.0,102.0,3.2
+2026-01-12,Downtown,Snacks,80.0,240.0,7.5
+2026-03-03,Downtown,Produce,40.0,80.0,14.7
+2026-01-10,Uptown,Snacks,75.0,225.0,2.0
+2026-02-03,Uptown,Ice Cream,59.0,265.5,12.3
+2026-02-03,Suburb Mall,Beverages,141.0,352.5,12.3
+2026-02-05,Uptown,Bakery,77.0,269.5,12.3
+2026-02-18,Downtown,Beverages,116.0,290.0,16.1
+2026-03-16,Downtown,Beverages,127.0,317.5,16.7
+2026-01-08,Suburb Mall,Ice Cream,21.0,94.5,2.2
+2026-01-17,Uptown,Beverages,120.0,300.0,5.2
+2026-03-01,Uptown,Snacks,95.0,285.0,19.7
+2026-03-11,Uptown,Snacks,102.0,306.0,16.6
+2026-03-03,Riverside,Bakery,71.0,248.5,14.7
+2026-01-22,Suburb Mall,Bakery,92.0,322.0,8.4
+2026-03-24,Suburb Mall,Beverages,136.0,340.0,20.9
+2026-02-28,Suburb Mall,Snacks,110.0,330.0,12.2
+2026-03-20,Suburb Mall,Beverages,,327.5,24.2
+2026-01-12,Uptown,Produce,57.0,114.0,7.5
+2026-02-11,Uptown,Bakery,66.0,231.0,7.3
+2026-01-17,Riverside,Bakery,71.0,248.5,5.2
+2026-02-11,Riverside,Snacks,79.0,237.0,7.3
+2026-02-20,Uptown,Snacks,104.0,312.0,11.5
+2026-03-22,Riverside,Snacks,105.0,315.0,19.5
+2026-01-04,Riverside,Ice Cream,16.0,72.0,1.9
+2026-03-06,Uptown,Beverages,110.0,275.0,18.5
+2026-02-26,Suburb Mall,Ice Cream,18.0,81.0,9.3
+2026-03-01,Downtown,Beverages,120.0,300.0,19.7
+2026-01-19,Suburb Mall,Snacks,86.0,258.0,14.6
+2026-03-06,Riverside,Bakery,56.0,196.0,18.5
+2026-02-17,Downtown,Bakery,48.0,168.0,15.5
+2026-03-04,Downtown,Ice Cream,43.0,193.5,14.8
+2026-01-07,Riverside,Bakery,69.0,241.5,3.0
+2026-03-22,Riverside,Bakery,76.0,266.0,19.5
+2026-01-19,Downtown,Ice Cream,46.0,207.0,14.6
+2026-03-22,Riverside,Beverages,119.0,297.5,19.5
+2026-03-08,Riverside,Ice Cream,61.0,,19.9
+2026-01-19,Riverside,Ice Cream,59.0,265.5,14.6
+2026-02-22,Suburb Mall,Bakery,75.0,262.5,15.8
+2026-02-15,Uptown,Produce,73.0,146.0,9.3
+2026-02-22,Downtown,Beverages,123.0,307.5,15.8
+2026-01-29,Suburb Mall,Snacks,113.0,339.0,12.2
+2026-01-28,Downtown,Produce,62.0,124.0,6.5
+2026-01-09,Suburb Mall,Bakery,66.0,231.0,5.6
+2026-03-31,Suburb Mall,Beverages,127.0,317.5,18.6
+2026-02-15,Suburb Mall,Snacks,92.0,276.0,9.3
+2026-03-31,Suburb Mall,Snacks,84.0,252.0,18.6
+2026-02-07,Suburb Mall,Bakery,69.0,241.5,10.4
+2026-03-21,Riverside,Snacks,91.0,273.0,21.6
+2026-01-25,Riverside,Bakery,69.0,241.5,7.0
+2026-03-08,Riverside,Snacks,109.0,327.0,19.9
+2026-02-22,Suburb Mall,Ice Cream,55.0,247.5,15.8
+2026-01-21,Uptown,Beverages,110.0,275.0,14.5
+2026-01-15,Downtown,Beverages,110.0,275.0,8.4
+2026-03-05,Uptown,Snacks,111.0,333.0,17.0
+2026-02-12,Suburb Mall,Bakery,65.0,227.5,10.5
+2026-01-31,Downtown,Produce,37.0,74.0,4.9
+2026-01-26,Suburb Mall,Ice Cream,38.0,171.0,3.8
+2026-02-20,Suburb Mall,Bakery,74.0,259.0,11.5
+2026-01-08,Suburb Mall,Bakery,,262.5,2.2
+2026-03-28,Downtown,Snacks,76.0,228.0,20.1
+2026-01-04,Uptown,Beverages,108.0,270.0,1.9
+2026-01-02,Uptown,Produce,79.0,158.0,4.5
+2026-02-10,Suburb Mall,Beverages,110.0,275.0,11.5
+2026-02-26,Downtown,Produce,76.0,152.0,9.3
+2026-03-20,Uptown,Snacks,102.0,306.0,24.2
+2026-03-03,Suburb Mall,Ice Cream,57.0,256.5,14.7
+2026-01-09,Uptown,Produce,54.0,108.0,5.6
+2026-02-06,Uptown,Bakery,62.0,217.0,12.5
+2026-02-10,Downtown,Produce,,132.0,11.5
+2026-01-22,Riverside,Bakery,59.0,206.5,8.4
+2026-01-16,Suburb Mall,Ice Cream,24.0,108.0,7.6
+2026-03-21,Downtown,Ice Cream,49.0,220.5,21.6
+2026-02-09,Downtown,Ice Cream,81.0,364.5,14.7
+2026-01-01,Riverside,Bakery,47.0,164.5,6.5
+2026-02-15,Suburb Mall,Ice Cream,46.0,207.0,9.3
+2026-03-06,Suburb Mall,Bakery,62.0,217.0,18.5
+2026-03-20,Suburb Mall,Produce,55.0,110.0,24.2
+2026-01-26,Downtown,Ice Cream,24.0,108.0,3.8
+2026-02-09,Riverside,Bakery,63.0,220.5,14.7
+2026-02-03,Suburb Mall,Ice Cream,45.0,202.5,12.3
+2026-03-16,Riverside,Beverages,119.0,297.5,16.7
+2026-01-11,Downtown,Produce,68.0,136.0,8.4
+2026-03-18,Downtown,Produce,81.0,162.0,19.5
+2026-01-25,Uptown,Snacks,87.0,261.0,7.0
+2026-01-29,Riverside,Produce,77.0,154.0,12.2
+2026-03-31,Uptown,Snacks,87.0,261.0,18.6
+2026-01-28,Downtown,Ice Cream,29.0,130.5,6.5
+2026-03-30,Riverside,Ice Cream,87.0,391.5,22.6
+2026-02-06,Suburb Mall,Ice Cream,54.0,243.0,12.5
+2026-01-25,Suburb Mall,Ice Cream,23.0,103.5,7.0
+2026-03-01,Suburb Mall,Produce,64.0,128.0,19.7
+2026-03-23,Riverside,Snacks,105.0,315.0,20.0
+2026-03-13,Riverside,Produce,75.0,150.0,24.5
+2026-01-01,Riverside,Beverages,112.0,280.0,6.5
+2026-02-13,Riverside,Snacks,96.0,288.0,16.0
+2026-03-09,Downtown,Produce,70.0,140.0,20.7
+2026-01-25,Riverside,Ice Cream,19.0,85.5,7.0
+2026-03-18,Uptown,Bakery,63.0,,19.5
+2026-03-09,Suburb Mall,Bakery,100.0,350.0,20.7
+2026-02-14,Riverside,Beverages,116.0,290.0,15.9
+2026-03-22,Downtown,Snacks,83.0,249.0,19.5
+2026-01-26,Uptown,Bakery,59.0,206.5,3.8
+2026-02-04,Uptown,Beverages,123.0,307.5,10.6
+2026-01-26,Suburb Mall,Bakery,37.0,129.5,3.8
+2026-03-05,Uptown,Beverages,130.0,325.0,17.0
+2026-01-20,Downtown,Snacks,83.0,249.0,11.9
+2026-02-18,Riverside,Bakery,72.0,252.0,16.1
+2026-03-29,Suburb Mall,Produce,56.0,112.0,23.7
+2026-02-07,Riverside,Beverages,119.0,297.5,10.4
+2026-01-01,Uptown,Beverages,137.0,342.5,6.5
+2026-03-22,Downtown,Beverages,124.0,310.0,19.5
+2026-01-03,Uptown,Ice Cream,,126.0,5.0
+2026-03-29,Riverside,Ice Cream,79.0,355.5,23.7
+2026-01-14,Uptown,Beverages,113.0,282.5,7.2
+2026-02-18,Downtown,Snacks,108.0,,16.1
+2026-01-07,Downtown,Produce,57.0,114.0,3.0
+2026-01-31,Uptown,Produce,53.0,106.0,4.9
+2026-01-31,Downtown,Beverages,135.0,337.5,4.9
+2026-03-06,Uptown,Ice Cream,71.0,319.5,18.5
+2026-03-20,Suburb Mall,Bakery,92.0,322.0,24.2
+2026-03-22,Uptown,Bakery,71.0,248.5,19.5
+2026-01-05,Downtown,Bakery,60.0,210.0,3.2
+2026-03-15,Suburb Mall,Beverages,138.0,345.0,16.7
+2026-01-15,Uptown,Produce,58.0,116.0,8.4
+2026-03-11,Uptown,Bakery,88.0,,16.6
+2026-01-21,Suburb Mall,Snacks,75.0,225.0,14.5
+2026-01-21,Uptown,Bakery,51.0,178.5,14.5
+2026-01-03,Suburb Mall,Beverages,121.0,302.5,5.0
+2026-02-07,Downtown,Bakery,54.0,189.0,10.4
+2026-01-21,Downtown,Snacks,89.0,267.0,14.5
+2026-03-25,Downtown,Beverages,115.0,287.5,22.3
+2026-01-06,Riverside,Beverages,118.0,295.0,7.0
+2026-02-03,Downtown,Ice Cream,50.0,225.0,12.3
+2026-02-25,Downtown,Snacks,120.0,360.0,17.2
+2026-03-17,Riverside,Bakery,74.0,259.0,17.4
+2026-03-13,Downtown,Beverages,120.0,300.0,24.5
+2026-03-07,Suburb Mall,Produce,66.0,132.0,15.4
+2026-03-13,Suburb Mall,Snacks,98.0,294.0,24.5
+2026-02-21,Riverside,Ice Cream,59.0,265.5,14.9
+2026-02-10,Uptown,Produce,53.0,106.0,11.5
+2026-01-29,Riverside,Beverages,125.0,312.5,12.2
+2026-02-03,Suburb Mall,Beverages,141.0,352.5,12.3
+2026-03-23,Uptown,Beverages,147.0,367.5,20.0
+2026-01-05,Suburb Mall,Bakery,56.0,196.0,3.2
+2026-03-24,Riverside,Beverages,121.0,302.5,20.9
+2026-01-26,Suburb Mall,Snacks,93.0,279.0,3.8
+2026-03-22,Uptown,Beverages,119.0,297.5,19.5
+2026-01-16,Downtown,Bakery,67.0,234.5,7.6
+2026-03-03,Uptown,Ice Cream,28.0,126.0,14.7
+2026-01-31,Downtown,Ice Cream,19.0,85.5,4.9
+2026-02-25,Riverside,Bakery,83.0,290.5,17.2
+2026-01-17,Uptown,Snacks,81.0,243.0,5.2
+2026-03-17,Downtown,Produce,66.0,132.0,17.4
+2026-01-15,Uptown,Bakery,76.0,266.0,8.4
+2026-02-13,Uptown,Produce,81.0,162.0,16.0
+2026-01-13,Riverside,Produce,44.0,88.0,13.4
+2026-01-20,Riverside,Produce,64.0,128.0,11.9
+2026-02-11,Riverside,Produce,52.0,104.0,7.3
+2026-01-12,Uptown,Snacks,80.0,240.0,7.5
+2026-01-31,Riverside,Snacks,84.0,252.0,4.9
+2026-02-06,Uptown,Snacks,90.0,270.0,12.5
+2026-01-04,Suburb Mall,Beverages,92.0,230.0,1.9
+2026-02-10,Riverside,Produce,53.0,106.0,11.5
+2026-03-10,Riverside,Produce,47.0,94.0,15.7
+2026-03-17,Uptown,Ice Cream,62.0,279.0,17.4
+2026-02-23,Riverside,Produce,61.0,122.0,15.3
+2026-01-24,Downtown,Ice Cream,30.0,135.0,9.4
+2026-01-05,Riverside,Ice Cream,22.0,99.0,3.2
+2026-03-06,Riverside,Snacks,87.0,261.0,18.5
+2026-02-26,Riverside,Produce,43.0,86.0,9.3
+2026-01-01,Downtown,Ice Cream,47.0,211.5,6.5
+2026-01-04,Riverside,Snacks,95.0,285.0,1.9
+2026-02-05,Riverside,Bakery,54.0,189.0,12.3
+2026-03-29,Suburb Mall,Bakery,92.0,322.0,23.7
+2026-02-27,Suburb Mall,Bakery,65.0,227.5,16.2
+2026-03-17,Suburb Mall,Snacks,98.0,294.0,17.4
+2026-02-24,Uptown,Produce,59.0,118.0,13.3
+2026-02-11,Riverside,Bakery,90.0,315.0,7.3
+2026-01-15,Riverside,Bakery,75.0,262.5,8.4
+2026-03-21,Suburb Mall,Beverages,121.0,302.5,21.6
+2026-02-15,Suburb Mall,Bakery,68.0,238.0,9.3
+2026-02-10,Downtown,Ice Cream,49.0,220.5,11.5
+2026-01-16,Uptown,Produce,44.0,88.0,7.6
+2026-03-23,Suburb Mall,Beverages,127.0,317.5,20.0
+2026-03-22,Uptown,Ice Cream,71.0,319.5,19.5
+2026-03-10,Uptown,Ice Cream,54.0,243.0,15.7
+2026-02-08,Suburb Mall,Produce,61.0,122.0,11.4
+2026-02-09,Suburb Mall,Bakery,84.0,294.0,14.7
+2026-03-30,Suburb Mall,Bakery,89.0,311.5,22.6
+2026-02-02,Riverside,Beverages,125.0,312.5,9.3
+2026-02-19,Riverside,Beverages,140.0,350.0,10.1
+2026-02-24,Suburb Mall,Snacks,65.0,195.0,13.3
+2026-01-18,Riverside,Bakery,74.0,259.0,7.0
+2026-01-28,Suburb Mall,Snacks,90.0,270.0,6.5
+2026-01-03,Downtown,Beverages,113.0,282.5,5.0
+2026-03-03,Uptown,Snacks,79.0,237.0,14.7
+2026-01-01,Riverside,Snacks,91.0,273.0,6.5
+2026-01-04,Downtown,Bakery,77.0,269.5,1.9
+2026-01-29,Suburb Mall,Beverages,126.0,315.0,12.2
+2026-01-21,Riverside,Bakery,90.0,315.0,14.5
+2026-02-01,Riverside,Ice Cream,41.0,184.5,13.5
+2026-02-27,Suburb Mall,Produce,66.0,132.0,16.2
+2026-02-28,Downtown,Bakery,78.0,273.0,12.2
+2026-03-20,Uptown,Produce,81.0,162.0,24.2
+2026-01-21,Uptown,Produce,48.0,96.0,14.5
+2026-03-04,Downtown,Produce,62.0,124.0,14.8
+2026-02-03,Riverside,Ice Cream,31.0,139.5,12.3
+2026-03-05,Downtown,Beverages,124.0,310.0,17.0
+2026-02-27,Uptown,Beverages,129.0,322.5,16.2
+2026-01-10,Riverside,Snacks,92.0,276.0,2.0
+2026-02-01,Riverside,Beverages,121.0,302.5,13.5
+2026-01-20,Riverside,Ice Cream,27.0,121.5,11.9
+2026-03-22,Suburb Mall,Snacks,86.0,258.0,19.5
+2026-01-01,Suburb Mall,Beverages,106.0,265.0,6.5
+2026-03-20,Riverside,Bakery,,276.5,24.2
+2026-01-30,Riverside,Bakery,,308.0,14.3
+2026-01-25,Suburb Mall,Snacks,95.0,285.0,7.0
+2026-01-13,Uptown,Bakery,70.0,245.0,13.4
+2026-02-21,Uptown,Ice Cream,64.0,288.0,14.9
+2026-03-18,Downtown,Snacks,94.0,282.0,19.5
+2026-03-10,Downtown,Ice Cream,66.0,297.0,15.7
+2026-02-20,Uptown,Ice Cream,51.0,229.5,11.5
+2026-02-09,Downtown,Beverages,116.0,290.0,14.7
+2026-03-25,Riverside,Snacks,112.0,336.0,22.3
+2026-02-02,Riverside,Ice Cream,46.0,207.0,9.3
+2026-03-17,Downtown,Snacks,107.0,321.0,17.4
+2026-02-17,Riverside,Bakery,83.0,290.5,15.5
+2026-02-14,Riverside,Snacks,80.0,240.0,15.9
+2026-03-25,Riverside,Bakery,87.0,304.5,22.3
+2026-02-15,Downtown,Ice Cream,37.0,166.5,9.3
+2026-01-27,Suburb Mall,Beverages,131.0,327.5,11.1
+2026-03-25,Downtown,Produce,68.0,136.0,22.3
+2026-01-19,Uptown,Snacks,94.0,282.0,14.6
+2026-03-20,Downtown,Beverages,114.0,285.0,24.2
+2026-01-24,Suburb Mall,Produce,66.0,132.0,9.4
+2026-02-20,Downtown,Beverages,125.0,312.5,11.5
+2026-03-14,Downtown,Bakery,90.0,315.0,14.8
+2026-02-06,Riverside,Ice Cream,69.0,310.5,12.5
+2026-01-07,Uptown,Ice Cream,7.0,31.5,3.0
+2026-01-14,Suburb Mall,Ice Cream,25.0,112.5,7.2
+2026-03-19,Riverside,Produce,55.0,110.0,15.6
+2026-02-10,Uptown,Beverages,124.0,310.0,11.5
+2026-01-20,Downtown,Beverages,101.0,252.5,11.9
+2026-03-02,Riverside,Ice Cream,56.0,252.0,16.7
+2026-03-14,Uptown,Ice Cream,69.0,310.5,14.8
+2026-02-06,Riverside,Snacks,83.0,249.0,12.5
+2026-01-12,Uptown,Ice Cream,42.0,189.0,7.5
+2026-02-03,Suburb Mall,Snacks,93.0,279.0,12.3
+2026-02-23,Downtown,Snacks,97.0,291.0,15.3
+2026-03-10,Suburb Mall,Bakery,79.0,276.5,15.7
+2026-02-03,Downtown,Produce,72.0,144.0,12.3
+2026-01-22,Downtown,Beverages,94.0,235.0,8.4
+2026-03-14,Riverside,Ice Cream,67.0,301.5,14.8
+2026-01-27,Downtown,Snacks,95.0,285.0,11.1
+2026-01-26,Uptown,Produce,57.0,114.0,3.8
+2026-02-26,Riverside,Beverages,116.0,290.0,9.3
+2026-01-27,Uptown,Snacks,93.0,279.0,11.1
+2026-02-09,Suburb Mall,Produce,59.0,,14.7
+2026-02-12,Riverside,Bakery,68.0,238.0,10.5
+2026-01-20,Uptown,Beverages,128.0,320.0,11.9
+2026-03-07,Suburb Mall,Beverages,116.0,290.0,15.4
+2026-02-16,Uptown,Snacks,82.0,246.0,10.6
+2026-02-13,Suburb Mall,Bakery,74.0,259.0,16.0
+2026-02-08,Uptown,Ice Cream,46.0,207.0,11.4
+2026-01-22,Suburb Mall,Ice Cream,20.0,90.0,8.4
+2026-01-28,Uptown,Ice Cream,2.0,9.0,6.5
+2026-03-28,Riverside,Produce,65.0,130.0,20.1
+2026-01-27,Uptown,Ice Cream,47.0,211.5,11.1
+2026-03-06,Suburb Mall,Ice Cream,66.0,297.0,18.5
+2026-03-11,Uptown,Produce,71.0,142.0,16.6
+2026-03-27,Downtown,Bakery,88.0,308.0,14.8
+2026-02-18,Uptown,Bakery,67.0,234.5,16.1
+2026-03-25,Uptown,Beverages,138.0,345.0,22.3
+2026-03-28,Uptown,Bakery,64.0,224.0,20.1
+2026-02-05,Suburb Mall,Snacks,79.0,237.0,12.3
+2026-02-13,Suburb Mall,Produce,54.0,108.0,16.0
+2026-01-07,Downtown,Beverages,,272.5,3.0
+2026-02-25,Suburb Mall,Snacks,94.0,282.0,17.2
+2026-03-15,Downtown,Snacks,74.0,222.0,16.7
+2026-03-02,Suburb Mall,Beverages,,377.5,16.7
+2026-02-03,Riverside,Produce,36.0,72.0,12.3
+2026-02-25,Riverside,Beverages,140.0,350.0,17.2
+2026-01-17,Downtown,Ice Cream,18.0,81.0,5.2
+2026-01-09,Riverside,Ice Cream,16.0,72.0,5.6
+2026-03-04,Uptown,Produce,79.0,158.0,14.8
+2026-02-15,Downtown,Snacks,81.0,243.0,9.3
+2026-03-10,Riverside,Snacks,100.0,300.0,15.7
+2026-03-17,Uptown,Produce,72.0,144.0,17.4
+2026-03-15,Downtown,Beverages,117.0,292.5,16.7
+2026-01-13,Uptown,Ice Cream,39.0,175.5,13.4
+2026-01-22,Suburb Mall,Beverages,106.0,265.0,8.4
+2026-01-04,Suburb Mall,Bakery,83.0,290.5,1.9
+2026-03-13,Suburb Mall,Produce,64.0,128.0,24.5
+2026-03-10,Downtown,Snacks,96.0,288.0,15.7
+2026-01-08,Suburb Mall,Beverages,106.0,265.0,2.2
+2026-02-07,Riverside,Snacks,70.0,210.0,10.4
+2026-01-23,Suburb Mall,Snacks,101.0,303.0,6.6
+2026-03-09,Uptown,Produce,68.0,136.0,20.7
+2026-02-19,Downtown,Snacks,70.0,210.0,10.1
+2026-02-28,Riverside,Bakery,70.0,245.0,12.2
+2026-01-31,Suburb Mall,Ice Cream,21.0,94.5,4.9
+2026-02-04,Riverside,Beverages,118.0,295.0,10.6
+2026-01-23,Downtown,Ice Cream,27.0,121.5,6.6
+2026-03-25,Suburb Mall,Bakery,77.0,269.5,22.3
+2026-03-18,Riverside,Beverages,144.0,360.0,19.5
+2026-01-09,Uptown,Ice Cream,26.0,117.0,5.6
+2026-01-01,Suburb Mall,Produce,75.0,150.0,6.5
+2026-01-20,Riverside,Snacks,77.0,231.0,11.9
+2026-03-03,Downtown,Snacks,103.0,309.0,14.7
+2026-01-17,Riverside,Ice Cream,23.0,,5.2
+2026-01-03,Downtown,Produce,70.0,140.0,5.0
+2026-02-20,Riverside,Produce,47.0,94.0,11.5
+2026-03-25,Downtown,Snacks,99.0,297.0,22.3
+2026-01-10,Riverside,Bakery,78.0,273.0,2.0
+2026-02-18,Riverside,Snacks,99.0,297.0,16.1
+2026-02-03,Downtown,Beverages,128.0,320.0,12.3
+2026-03-19,Suburb Mall,Produce,67.0,134.0,15.6
+2026-01-12,Suburb Mall,Produce,69.0,138.0,7.5
+2026-02-18,Suburb Mall,Produce,70.0,140.0,16.1
+2026-01-02,Riverside,Bakery,52.0,182.0,4.5
+2026-02-23,Uptown,Ice Cream,70.0,315.0,15.3
+2026-02-05,Riverside,Ice Cream,39.0,175.5,12.3
+2026-01-24,Uptown,Bakery,70.0,245.0,9.4
+2026-01-15,Riverside,Ice Cream,28.0,126.0,8.4
+2026-01-15,Riverside,Beverages,120.0,300.0,8.4
+2026-01-18,Uptown,Beverages,123.0,307.5,7.0
+2026-03-13,Uptown,Bakery,86.0,301.0,24.5
+2026-02-05,Uptown,Beverages,105.0,262.5,12.3
+2026-02-02,Uptown,Beverages,130.0,325.0,9.3
+2026-01-20,Suburb Mall,Produce,61.0,122.0,11.9
+2026-03-24,Downtown,Ice Cream,85.0,382.5,20.9
+2026-03-27,Riverside,Produce,85.0,170.0,14.8
+2026-01-04,Suburb Mall,Produce,49.0,98.0,1.9
+2026-02-06,Uptown,Ice Cream,61.0,274.5,12.5
+2026-01-02,Downtown,Beverages,118.0,295.0,4.5
+2026-02-17,Suburb Mall,Snacks,101.0,303.0,15.5
+2026-03-20,Riverside,Beverages,158.0,395.0,24.2
+2026-03-09,Suburb Mall,Ice Cream,48.0,,20.7
+2026-03-29,Downtown,Snacks,97.0,291.0,23.7
+2026-03-24,Downtown,Beverages,132.0,330.0,20.9
+2026-02-19,Suburb Mall,Ice Cream,21.0,94.5,10.1
+2026-03-12,Downtown,Bakery,65.0,227.5,20.3
+2026-03-22,Downtown,Ice Cream,72.0,324.0,19.5
+2026-02-16,Uptown,Bakery,47.0,164.5,10.6
+2026-01-12,Suburb Mall,Bakery,53.0,185.5,7.5
+2026-01-29,Suburb Mall,Bakery,56.0,196.0,12.2
+2026-02-12,Suburb Mall,Beverages,134.0,335.0,10.5
+2026-01-08,Riverside,Beverages,101.0,252.5,2.2
+2026-02-13,Riverside,Produce,57.0,114.0,16.0
+2026-03-18,Uptown,Ice Cream,62.0,279.0,19.5
+2026-02-04,Suburb Mall,Bakery,49.0,171.5,10.6
+2026-02-01,Downtown,Produce,61.0,122.0,13.5
+2026-03-14,Suburb Mall,Ice Cream,56.0,252.0,14.8
+2026-03-28,Suburb Mall,Produce,51.0,102.0,20.1
+2026-03-07,Uptown,Produce,60.0,120.0,15.4
+2026-03-23,Uptown,Bakery,88.0,308.0,20.0
+2026-01-17,Riverside,Beverages,,250.0,5.2
+2026-03-02,Suburb Mall,Bakery,69.0,241.5,16.7
+2026-01-02,Suburb Mall,Beverages,93.0,232.5,4.5
+2026-03-15,Uptown,Ice Cream,81.0,364.5,16.7
+2026-01-23,Uptown,Beverages,111.0,277.5,6.6
+2026-01-18,Downtown,Snacks,78.0,234.0,7.0
+2026-02-15,Uptown,Beverages,123.0,307.5,9.3
+2026-03-28,Downtown,Beverages,131.0,327.5,20.1
+2026-03-07,Downtown,Produce,60.0,120.0,15.4
+2026-02-11,Uptown,Ice Cream,56.0,252.0,7.3
+2026-01-12,Suburb Mall,Ice Cream,37.0,166.5,7.5
+2026-03-07,Downtown,Beverages,122.0,305.0,15.4
+2026-02-23,Riverside,Snacks,78.0,234.0,15.3
+2026-02-11,Riverside,Beverages,102.0,255.0,7.3
+2026-02-16,Suburb Mall,Snacks,89.0,267.0,10.6
+2026-02-03,Uptown,Snacks,84.0,252.0,12.3
+2026-03-24,Suburb Mall,Snacks,115.0,345.0,20.9
+2026-01-02,Suburb Mall,Bakery,76.0,266.0,4.5
+2026-03-29,Riverside,Bakery,54.0,189.0,23.7
+2026-01-06,Downtown,Produce,35.0,70.0,7.0
+2026-03-27,Suburb Mall,Produce,43.0,86.0,14.8
+2026-01-12,Uptown,Bakery,59.0,206.5,7.5
+2026-03-14,Uptown,Snacks,114.0,342.0,14.8
+2026-02-11,Uptown,Produce,49.0,98.0,7.3
+2026-01-22,Suburb Mall,Snacks,82.0,246.0,8.4
+2026-02-17,Downtown,Produce,59.0,118.0,15.5
+2026-01-14,Riverside,Beverages,144.0,360.0,7.2
+2026-03-09,Riverside,Produce,60.0,120.0,20.7
+2026-03-19,Downtown,Bakery,55.0,192.5,15.6
+2026-02-19,Riverside,Bakery,,241.5,10.1
+2026-03-30,Riverside,Bakery,85.0,297.5,22.6
+2026-02-06,Suburb Mall,Produce,52.0,104.0,12.5
+2026-02-25,Suburb Mall,Ice Cream,60.0,270.0,17.2
+2026-03-22,Downtown,Produce,79.0,158.0,19.5
+2026-02-14,Downtown,Beverages,104.0,260.0,15.9
+2026-02-16,Riverside,Produce,65.0,130.0,10.6
+2026-03-19,Riverside,Beverages,123.0,307.5,15.6
+2026-03-21,Suburb Mall,Snacks,110.0,330.0,21.6
+2026-02-10,Riverside,Ice Cream,58.0,261.0,11.5
+2026-01-25,Uptown,Produce,51.0,102.0,7.0
+2026-01-14,Suburb Mall,Produce,68.0,136.0,7.2
+2026-01-11,Uptown,Snacks,86.0,258.0,8.4
+2026-02-23,Downtown,Produce,65.0,130.0,15.3
+2026-01-27,Suburb Mall,Ice Cream,,256.5,11.1
+2026-02-16,Riverside,Beverages,91.0,227.5,10.6
+2026-02-12,Suburb Mall,Produce,60.0,120.0,10.5
+2026-02-24,Suburb Mall,Produce,81.0,162.0,13.3
+2026-01-22,Downtown,Produce,63.0,126.0,8.4
+2026-02-10,Suburb Mall,Snacks,96.0,288.0,11.5
+2026-03-08,Suburb Mall,Beverages,139.0,,19.9
+2026-02-17,Uptown,Bakery,94.0,329.0,15.5
+2026-01-16,Suburb Mall,Produce,57.0,114.0,7.6
+2026-03-31,Riverside,Ice Cream,50.0,225.0,18.6
+2026-02-15,Suburb Mall,Produce,76.0,152.0,9.3
+2026-01-09,Downtown,Snacks,77.0,,5.6
+2026-01-27,Downtown,Produce,58.0,116.0,11.1
+2026-01-26,Riverside,Ice Cream,33.0,148.5,3.8
+2026-01-25,Downtown,Bakery,69.0,241.5,7.0
+2026-02-21,Downtown,Beverages,123.0,307.5,14.9
+2026-03-02,Uptown,Ice Cream,51.0,229.5,16.7
+2026-03-06,Downtown,Bakery,57.0,199.5,18.5
+2026-02-16,Suburb Mall,Ice Cream,41.0,184.5,10.6
+2026-01-24,Suburb Mall,Snacks,100.0,300.0,9.4
+2026-03-09,Downtown,Snacks,92.0,276.0,20.7
+2026-03-17,Riverside,Ice Cream,52.0,234.0,17.4
+2026-03-27,Riverside,Bakery,72.0,252.0,14.8
+2026-02-16,Uptown,Beverages,130.0,325.0,10.6
+2026-01-23,Suburb Mall,Beverages,155.0,387.5,6.6
+2026-01-02,Downtown,Snacks,70.0,210.0,4.5
+2026-03-25,Riverside,Beverages,132.0,330.0,22.3
+2026-03-23,Suburb Mall,Bakery,81.0,283.5,20.0
+2026-01-09,Uptown,Snacks,97.0,291.0,5.6
+2026-01-06,Suburb Mall,Beverages,107.0,267.5,7.0
+2026-02-14,Uptown,Ice Cream,40.0,180.0,15.9
+2026-02-21,Suburb Mall,Snacks,89.0,267.0,14.9
+2026-03-12,Downtown,Produce,72.0,144.0,20.3
+2026-03-07,Suburb Mall,Ice Cream,48.0,216.0,15.4
+2026-01-29,Uptown,Snacks,84.0,252.0,12.2
+2026-02-18,Suburb Mall,Snacks,98.0,294.0,16.1
+2026-02-13,Downtown,Bakery,81.0,283.5,16.0
+2026-03-19,Suburb Mall,Ice Cream,51.0,229.5,15.6
+2026-01-30,Suburb Mall,Bakery,72.0,252.0,14.3
+2026-01-30,Downtown,Produce,91.0,182.0,14.3
+2026-02-03,Downtown,Bakery,56.0,196.0,12.3
+2026-01-16,Downtown,Beverages,126.0,315.0,7.6
+2026-01-05,Suburb Mall,Produce,54.0,108.0,3.2
+2026-03-11,Suburb Mall,Bakery,58.0,203.0,16.6
+2026-01-28,Suburb Mall,Ice Cream,32.0,144.0,6.5
+2026-03-27,Suburb Mall,Snacks,,,14.8
+2026-01-28,Uptown,Snacks,98.0,294.0,6.5
+2026-01-22,Riverside,Beverages,107.0,267.5,8.4
+2026-01-07,Uptown,Bakery,85.0,297.5,3.0
+2026-03-14,Riverside,Snacks,87.0,261.0,14.8
+2026-01-08,Riverside,Ice Cream,4.0,18.0,2.2
+2026-01-13,Riverside,Snacks,88.0,264.0,13.4
+2026-03-10,Uptown,Snacks,96.0,288.0,15.7
+2026-03-02,Downtown,Ice Cream,49.0,220.5,16.7
+2026-01-06,Riverside,Snacks,,222.0,7.0
+2026-03-25,Uptown,Produce,44.0,88.0,22.3
+2026-03-04,Downtown,Beverages,113.0,282.5,14.8
+2026-02-26,Downtown,Snacks,77.0,231.0,9.3
+2026-01-19,Uptown,Bakery,94.0,329.0,14.6
+2026-01-07,Suburb Mall,Beverages,97.0,242.5,3.0
+2026-02-20,Downtown,Bakery,64.0,224.0,11.5
+2026-02-14,Uptown,Bakery,46.0,161.0,15.9
+2026-02-11,Uptown,Snacks,96.0,288.0,7.3
+2026-01-19,Uptown,Produce,73.0,146.0,14.6
+2026-01-31,Riverside,Ice Cream,,27.0,4.9
+2026-01-08,Riverside,Produce,70.0,140.0,2.2
+2026-03-10,Uptown,Beverages,120.0,300.0,15.7
+2026-02-27,Downtown,Snacks,109.0,327.0,16.2
+2026-02-22,Suburb Mall,Produce,,146.0,15.8
+2026-01-16,Uptown,Beverages,125.0,312.5,7.6
+2026-02-11,Suburb Mall,Snacks,88.0,264.0,7.3
+2026-03-05,Downtown,Bakery,71.0,248.5,17.0
+2026-02-28,Suburb Mall,Bakery,64.0,224.0,12.2
+2026-01-21,Suburb Mall,Produce,66.0,132.0,14.5
+2026-01-19,Downtown,Produce,55.0,110.0,14.6
+2026-03-04,Uptown,Bakery,82.0,287.0,14.8
+2026-01-30,Downtown,Snacks,91.0,273.0,14.3
+2026-02-09,Riverside,Snacks,,243.0,14.7
+2026-01-13,Uptown,Snacks,100.0,300.0,13.4
+2026-02-14,Suburb Mall,Snacks,103.0,309.0,15.9
+2026-02-18,Downtown,Bakery,97.0,339.5,16.1
+2026-01-16,Riverside,Bakery,76.0,266.0,7.6
+2026-03-18,Suburb Mall,Beverages,135.0,337.5,19.5
+2026-03-03,Riverside,Produce,73.0,146.0,14.7
+2026-02-15,Riverside,Snacks,95.0,285.0,9.3
+2026-02-06,Uptown,Beverages,151.0,377.5,12.5
+2026-03-01,Downtown,Produce,57.0,114.0,19.7
+2026-03-23,Uptown,Snacks,93.0,279.0,20.0
+2026-03-24,Uptown,Beverages,129.0,322.5,20.9
+2026-02-19,Suburb Mall,Bakery,87.0,304.5,10.1
+2026-02-15,Uptown,Bakery,68.0,238.0,9.3
+2026-02-22,Uptown,Produce,87.0,174.0,15.8
+2026-01-08,Downtown,Snacks,89.0,267.0,2.2
+2026-03-06,Uptown,Snacks,72.0,216.0,18.5
+2026-01-16,Suburb Mall,Ice Cream,24.0,108.0,7.6
+2026-02-25,Uptown,Produce,92.0,184.0,17.2
+2026-02-20,Riverside,Snacks,104.0,312.0,11.5
+2026-02-26,Suburb Mall,Snacks,93.0,279.0,9.3
+2026-01-06,Riverside,Ice Cream,44.0,198.0,7.0
+2026-02-19,Uptown,Ice Cream,22.0,99.0,10.1
+2026-03-16,Uptown,Produce,72.0,144.0,16.7
+2026-03-24,Downtown,Produce,75.0,150.0,20.9
+2026-03-15,Downtown,Produce,49.0,98.0,16.7
+2026-01-15,Downtown,Ice Cream,38.0,171.0,8.4
+2026-02-28,Riverside,Beverages,147.0,367.5,12.2
+2026-02-09,Riverside,Produce,61.0,122.0,14.7
+2026-01-28,Uptown,Beverages,115.0,287.5,6.5
+2026-03-11,Downtown,Bakery,,364.0,16.6
+2026-03-19,Uptown,Ice Cream,69.0,310.5,15.6
+2026-01-23,Riverside,Ice Cream,26.0,117.0,6.6
+2026-02-22,Downtown,Snacks,101.0,303.0,15.8
+2026-03-29,Suburb Mall,Snacks,98.0,294.0,23.7
+2026-01-06,Uptown,Beverages,118.0,295.0,7.0
+2026-01-03,Suburb Mall,Produce,44.0,88.0,5.0
+2026-01-17,Riverside,Produce,75.0,150.0,5.2
+2026-01-17,Uptown,Bakery,70.0,245.0,5.2
+2026-02-16,Suburb Mall,Produce,78.0,156.0,10.6
+2026-02-02,Suburb Mall,Beverages,128.0,320.0,9.3
+2026-02-23,Uptown,Snacks,105.0,315.0,15.3
+2026-02-02,Downtown,Produce,80.0,160.0,9.3
+2026-03-03,Suburb Mall,Beverages,118.0,295.0,14.7
+2026-03-16,Suburb Mall,Snacks,78.0,234.0,16.7
+2026-03-03,Downtown,Ice Cream,44.0,198.0,14.7
+2026-03-12,Riverside,Produce,76.0,152.0,20.3
+2026-01-18,Riverside,Ice Cream,31.0,139.5,7.0
+2026-01-12,Downtown,Snacks,80.0,240.0,7.5
+2026-01-06,Suburb Mall,Bakery,75.0,262.5,7.0
+2026-03-17,Downtown,Ice Cream,53.0,238.5,17.4
+2026-02-12,Riverside,Beverages,134.0,335.0,10.5
+2026-02-01,Suburb Mall,Snacks,59.0,177.0,13.5
+2026-02-26,Uptown,Snacks,70.0,210.0,9.3
+2026-02-20,Uptown,Snacks,104.0,312.0,11.5
+2026-01-01,Downtown,Produce,55.0,110.0,6.5
+2026-01-09,Riverside,Beverages,150.0,375.0,5.6
+2026-02-02,Downtown,Beverages,115.0,287.5,9.3
+2026-02-28,Suburb Mall,Produce,67.0,134.0,12.2
+2026-03-12,Uptown,Snacks,100.0,300.0,20.3
+2026-03-09,Riverside,Beverages,143.0,357.5,20.7
+2026-02-23,Riverside,Ice Cream,59.0,265.5,15.3
+2026-01-03,Uptown,Beverages,121.0,302.5,5.0
+2026-03-08,Downtown,Snacks,95.0,285.0,19.9
+2026-02-18,Suburb Mall,Beverages,143.0,357.5,16.1
+2026-01-18,Uptown,Produce,58.0,116.0,7.0
+2026-03-09,Riverside,Ice Cream,78.0,351.0,20.7
+2026-01-13,Riverside,Ice Cream,35.0,157.5,13.4
+2026-01-01,Uptown,Bakery,74.0,259.0,6.5
+2026-03-17,Suburb Mall,Produce,51.0,102.0,17.4
+2026-02-28,Suburb Mall,Beverages,111.0,277.5,12.2
+2026-01-19,Downtown,Bakery,46.0,161.0,14.6
+2026-01-11,Suburb Mall,Bakery,77.0,269.5,8.4
+2026-01-13,Uptown,Beverages,127.0,317.5,13.4
+2026-02-05,Suburb Mall,Bakery,59.0,206.5,12.3
+2026-02-26,Uptown,Ice Cream,26.0,117.0,9.3
+2026-02-12,Uptown,Produce,73.0,146.0,10.5
+2026-01-15,Downtown,Snacks,,297.0,8.4
+2026-01-13,Downtown,Produce,53.0,106.0,13.4
+2026-02-03,Uptown,Beverages,118.0,295.0,12.3
+2026-02-19,Uptown,Bakery,72.0,252.0,10.1
+2026-03-15,Suburb Mall,Ice Cream,57.0,256.5,16.7
+2026-02-13,Suburb Mall,Ice Cream,45.0,202.5,16.0
+2026-01-11,Riverside,Snacks,97.0,291.0,8.4
+2026-03-08,Riverside,Beverages,113.0,282.5,19.9
+2026-01-16,Downtown,Snacks,85.0,255.0,7.6
+2026-01-26,Riverside,Snacks,82.0,246.0,3.8
+2026-02-13,Uptown,Ice Cream,60.0,270.0,16.0
+2026-03-19,Uptown,Beverages,114.0,285.0,15.6
+2026-03-05,Downtown,Ice Cream,49.0,220.5,17.0
+2026-03-20,Downtown,Bakery,76.0,266.0,24.2
+2026-01-15,Suburb Mall,Produce,74.0,148.0,8.4
+2026-02-06,Uptown,Produce,60.0,120.0,12.5
+2026-01-12,Downtown,Produce,34.0,68.0,7.5
+2026-01-08,Uptown,Snacks,89.0,267.0,2.2
+2026-01-27,Suburb Mall,Bakery,65.0,227.5,11.1
+2026-01-24,Suburb Mall,Ice Cream,61.0,274.5,9.4
+2026-03-16,Suburb Mall,Produce,68.0,136.0,16.7
+2026-03-06,Downtown,Produce,61.0,,18.5
+2026-02-18,Uptown,Beverages,143.0,357.5,16.1
+2026-01-31,Suburb Mall,Snacks,86.0,258.0,4.9
+2026-01-14,Suburb Mall,Beverages,,277.5,7.2
+2026-03-11,Downtown,Snacks,113.0,339.0,16.6
+2026-03-10,Riverside,Beverages,131.0,327.5,15.7
+2026-03-01,Riverside,Beverages,128.0,320.0,19.7
+2026-01-16,Riverside,Ice Cream,40.0,180.0,7.6
+2026-01-03,Riverside,Beverages,124.0,310.0,5.0
+2026-03-27,Riverside,Snacks,82.0,246.0,14.8
+2026-01-15,Uptown,Beverages,109.0,272.5,8.4
+2026-03-05,Uptown,Bakery,70.0,245.0,17.0
+2026-03-08,Downtown,Bakery,80.0,280.0,19.9
+2026-03-29,Uptown,Produce,68.0,136.0,23.7
+2026-02-21,Riverside,Bakery,77.0,269.5,14.9
+2026-03-26,Riverside,Snacks,86.0,258.0,18.3
+2026-02-11,Downtown,Ice Cream,24.0,108.0,7.3
+2026-02-14,Suburb Mall,Bakery,71.0,248.5,15.9
+2026-02-19,Downtown,Bakery,77.0,269.5,10.1
+2026-02-21,Suburb Mall,Produce,62.0,124.0,14.9
+2026-02-19,Uptown,Snacks,75.0,225.0,10.1
+2026-03-16,Uptown,Snacks,84.0,252.0,16.7
+2026-01-21,Downtown,Ice Cream,65.0,292.5,14.5
+2026-01-23,Downtown,Snacks,86.0,258.0,6.6
+2026-02-27,Downtown,Beverages,125.0,312.5,16.2
+2026-02-09,Uptown,Snacks,111.0,333.0,14.7
+2026-03-14,Riverside,Bakery,95.0,332.5,14.8
+2026-01-09,Suburb Mall,Produce,47.0,94.0,5.6
+2026-02-24,Riverside,Snacks,78.0,234.0,13.3
+2026-02-08,Suburb Mall,Ice Cream,47.0,211.5,11.4
+2026-03-02,Riverside,Snacks,80.0,240.0,16.7
+2026-03-13,Riverside,Beverages,117.0,292.5,24.5
+2026-01-03,Uptown,Snacks,66.0,198.0,5.0
+2026-03-03,Downtown,Beverages,130.0,325.0,14.7
+2026-03-23,Uptown,Produce,63.0,126.0,20.0
+2026-01-23,Suburb Mall,Ice Cream,28.0,126.0,6.6
+2026-01-29,Riverside,Bakery,81.0,283.5,12.2
+2026-01-21,Suburb Mall,Ice Cream,33.0,148.5,14.5
+2026-02-24,Suburb Mall,Bakery,55.0,,13.3
+2026-01-23,Downtown,Beverages,120.0,300.0,6.6
+2026-01-11,Suburb Mall,Beverages,119.0,297.5,8.4
+2026-03-28,Riverside,Ice Cream,58.0,261.0,20.1
+2026-03-07,Downtown,Ice Cream,50.0,225.0,15.4
+2026-01-14,Suburb Mall,Bakery,61.0,213.5,7.2
+2026-02-06,Suburb Mall,Beverages,128.0,320.0,12.5
+2026-02-04,Suburb Mall,Beverages,122.0,305.0,10.6
+2026-03-18,Riverside,Snacks,98.0,294.0,19.5
+2026-01-01,Suburb Mall,Ice Cream,18.0,81.0,6.5
+2026-01-02,Uptown,Beverages,121.0,302.5,4.5
+2026-02-13,Riverside,Bakery,75.0,262.5,16.0
+2026-01-19,Riverside,Beverages,115.0,287.5,14.6
+2026-02-06,Downtown,Ice Cream,55.0,247.5,12.5
+2026-03-03,Suburb Mall,Produce,74.0,148.0,14.7
+2026-02-23,Suburb Mall,Beverages,126.0,315.0,15.3
+2026-01-19,Suburb Mall,Produce,60.0,120.0,14.6
+2026-03-08,Uptown,Bakery,77.0,269.5,19.9
+2026-02-02,Downtown,Ice Cream,28.0,126.0,9.3
+2026-03-28,Uptown,Produce,39.0,78.0,20.1
+2026-03-24,Uptown,Produce,65.0,130.0,20.9
+2026-03-19,Riverside,Ice Cream,62.0,279.0,15.6
+2026-01-18,Uptown,Ice Cream,26.0,117.0,7.0
+2026-03-13,Uptown,Snacks,109.0,327.0,24.5
+2026-03-28,Suburb Mall,Beverages,122.0,305.0,20.1
+2026-03-19,Riverside,Bakery,62.0,217.0,15.6
+2026-03-18,Uptown,Produce,66.0,132.0,19.5
+2026-02-16,Downtown,Snacks,89.0,267.0,10.6
+2026-03-12,Downtown,Ice Cream,71.0,,20.3
+2026-01-24,Uptown,Beverages,130.0,325.0,9.4
+2026-03-05,Riverside,Produce,,116.0,17.0
+2026-01-23,Suburb Mall,Produce,39.0,78.0,6.6
+2026-03-16,Uptown,Ice Cream,31.0,139.5,16.7
+2026-02-06,Suburb Mall,Snacks,102.0,306.0,12.5
+2026-01-31,Downtown,Snacks,85.0,,4.9
+2026-02-17,Uptown,Produce,70.0,140.0,15.5
+2026-03-08,Downtown,Ice Cream,,270.0,19.9
+2026-01-07,Riverside,Snacks,96.0,288.0,3.0
+2026-03-03,Suburb Mall,Bakery,64.0,224.0,14.7
+2026-02-25,Suburb Mall,Beverages,126.0,315.0,17.2
+2026-01-24,Downtown,Snacks,72.0,216.0,9.4
+2026-01-02,Riverside,Beverages,117.0,292.5,4.5
+2026-03-19,Downtown,Ice Cream,58.0,261.0,15.6
+2026-01-10,Riverside,Produce,39.0,78.0,2.0
+2026-02-06,Downtown,Bakery,64.0,224.0,12.5
+2026-01-21,Suburb Mall,Bakery,71.0,248.5,14.5
+2026-03-12,Uptown,Beverages,123.0,307.5,20.3
+2026-03-04,Riverside,Ice Cream,38.0,171.0,14.8
+2026-03-07,Uptown,Snacks,76.0,228.0,15.4
+2026-02-03,Uptown,Produce,44.0,88.0,12.3
+2026-03-18,Suburb Mall,Bakery,113.0,395.5,19.5
+2026-03-08,Suburb Mall,Bakery,65.0,227.5,19.9
+2026-03-24,Suburb Mall,Bakery,73.0,255.5,20.9
+2026-03-27,Downtown,Ice Cream,58.0,261.0,14.8
+2026-02-24,Riverside,Beverages,121.0,302.5,13.3
+2026-03-31,Suburb Mall,Ice Cream,70.0,315.0,18.6
+2026-01-17,Downtown,Produce,60.0,120.0,5.2
+2026-01-12,Suburb Mall,Snacks,109.0,327.0,7.5
+2026-03-19,Downtown,Produce,73.0,146.0,15.6
+2026-01-13,Suburb Mall,Ice Cream,67.0,301.5,13.4
+2026-01-30,Downtown,Ice Cream,56.0,252.0,14.3
+2026-02-09,Uptown,Ice Cream,47.0,211.5,14.7
+2026-03-25,Suburb Mall,Snacks,115.0,,22.3
+2026-02-25,Uptown,Ice Cream,41.0,184.5,17.2
+2026-03-05,Suburb Mall,Ice Cream,61.0,274.5,17.0
+2026-01-17,Riverside,Snacks,78.0,234.0,5.2
+2026-01-25,Downtown,Ice Cream,20.0,90.0,7.0
+2026-02-07,Suburb Mall,Produce,68.0,136.0,10.4
+2026-02-07,Suburb Mall,Ice Cream,53.0,238.5,10.4
+2026-02-28,Riverside,Snacks,84.0,252.0,12.2
+2026-03-14,Downtown,Produce,69.0,138.0,14.8
+2026-02-04,Riverside,Ice Cream,45.0,202.5,10.6
+2026-02-15,Uptown,Snacks,74.0,222.0,9.3
+2026-03-11,Uptown,Ice Cream,64.0,288.0,16.6
+2026-03-11,Suburb Mall,Snacks,113.0,339.0,16.6
+2026-02-25,Downtown,Beverages,115.0,287.5,17.2
+2026-03-16,Riverside,Bakery,54.0,189.0,16.7
+2026-02-14,Suburb Mall,Beverages,107.0,267.5,15.9
+2026-03-05,Uptown,Ice Cream,75.0,337.5,17.0
+2026-03-02,Riverside,Bakery,,304.5,16.7
+2026-01-26,Suburb Mall,Beverages,103.0,257.5,3.8
+2026-03-10,Downtown,Produce,55.0,110.0,15.7
+2026-03-16,Suburb Mall,Bakery,57.0,199.5,16.7
+2026-02-19,Suburb Mall,Produce,76.0,152.0,10.1
+2026-01-10,Uptown,Produce,42.0,84.0,2.0
+2026-01-11,Downtown,Ice Cream,43.0,193.5,8.4
+2026-03-26,Suburb Mall,Snacks,93.0,279.0,18.3
+2026-02-27,Riverside,Snacks,114.0,342.0,16.2
+2026-03-16,Riverside,Ice Cream,66.0,297.0,16.7
+2026-01-29,Uptown,Ice Cream,43.0,193.5,12.2
+2026-02-08,Uptown,Beverages,115.0,287.5,11.4
+2026-02-14,Uptown,Produce,68.0,136.0,15.9
+2026-02-05,Uptown,Ice Cream,47.0,,12.3
+2026-01-04,Riverside,Produce,57.0,114.0,1.9
+2026-03-17,Downtown,Bakery,63.0,220.5,17.4
+2026-01-03,Downtown,Ice Cream,16.0,72.0,5.0
+2026-03-24,Riverside,Produce,52.0,104.0,20.9
+2026-01-08,Suburb Mall,Produce,78.0,156.0,2.2
+2026-02-04,Downtown,Ice Cream,43.0,193.5,10.6
+2026-02-16,Downtown,Bakery,71.0,248.5,10.6
+2026-01-17,Downtown,Bakery,57.0,199.5,5.2
+2026-01-20,Suburb Mall,Bakery,85.0,297.5,11.9
+2026-01-19,Uptown,Ice Cream,57.0,256.5,14.6
+2026-02-15,Uptown,Ice Cream,55.0,247.5,9.3
+2026-02-19,Suburb Mall,Beverages,130.0,325.0,10.1
+2026-03-19,Downtown,Snacks,106.0,318.0,15.6
+2026-02-18,Downtown,Ice Cream,60.0,270.0,16.1
+2026-01-02,Suburb Mall,Snacks,71.0,213.0,4.5
+2026-02-10,Riverside,Beverages,114.0,285.0,11.5
+2026-03-02,Downtown,Produce,46.0,92.0,16.7
+2026-01-15,Uptown,Ice Cream,44.0,198.0,8.4
+2026-02-25,Uptown,Snacks,76.0,228.0,17.2
+2026-02-07,Uptown,Ice Cream,54.0,243.0,10.4
+2026-03-16,Suburb Mall,Ice Cream,63.0,283.5,16.7
+2026-03-27,Downtown,Produce,39.0,78.0,14.8
+2026-03-05,Suburb Mall,Beverages,125.0,312.5,17.0
+2026-02-12,Downtown,Snacks,98.0,294.0,10.5
+2026-01-17,Downtown,Snacks,92.0,276.0,5.2
+2026-02-11,Suburb Mall,Ice Cream,46.0,207.0,7.3
+2026-01-28,Suburb Mall,Bakery,62.0,217.0,6.5
+2026-01-04,Suburb Mall,Ice Cream,19.0,85.5,1.9
+2026-02-19,Suburb Mall,Snacks,97.0,291.0,10.1
+2026-02-06,Downtown,Produce,62.0,124.0,12.5
+2026-02-01,Uptown,Produce,55.0,110.0,13.5
+2026-02-09,Riverside,Beverages,106.0,265.0,14.7
+2026-01-27,Uptown,Beverages,134.0,335.0,11.1
+2026-02-14,Suburb Mall,Ice Cream,65.0,292.5,15.9
+2026-01-11,Riverside,Produce,72.0,144.0,8.4
+2026-03-31,Downtown,Bakery,83.0,290.5,18.6
+2026-03-23,Downtown,Beverages,132.0,330.0,20.0
+2026-03-30,Suburb Mall,Ice Cream,90.0,405.0,22.6
+2026-03-04,Uptown,Beverages,135.0,,14.8
+2026-03-28,Downtown,Bakery,69.0,241.5,20.1
+2026-02-27,Riverside,Bakery,64.0,224.0,16.2
+2026-03-21,Downtown,Bakery,68.0,238.0,21.6
+2026-03-31,Uptown,Beverages,141.0,352.5,18.6
+2026-03-13,Downtown,Produce,91.0,182.0,24.5
+2026-03-22,Riverside,Ice Cream,52.0,234.0,19.5
+2026-03-26,Uptown,Produce,55.0,110.0,18.3
+2026-01-01,Suburb Mall,Bakery,51.0,178.5,6.5
+2026-01-16,Riverside,Beverages,132.0,330.0,7.6
+2026-02-02,Riverside,Produce,55.0,110.0,9.3
+2026-02-26,Suburb Mall,Produce,59.0,118.0,9.3
+2026-01-18,Suburb Mall,Snacks,114.0,342.0,7.0
+2026-03-15,Suburb Mall,Produce,53.0,106.0,16.7
+2026-03-29,Riverside,Produce,60.0,120.0,23.7
+2026-02-20,Riverside,Beverages,86.0,215.0,11.5
+2026-02-12,Uptown,Snacks,103.0,309.0,10.5
+2026-03-01,Riverside,Produce,79.0,158.0,19.7
+2026-02-26,Uptown,Bakery,80.0,280.0,9.3
+2026-02-24,Riverside,Produce,51.0,102.0,13.3
+2026-02-27,Downtown,Bakery,67.0,234.5,16.2
+2026-03-10,Uptown,Produce,68.0,136.0,15.7
+2026-02-15,Downtown,Produce,56.0,112.0,9.3
+2026-02-23,Downtown,Beverages,124.0,310.0,15.3
+2026-01-30,Downtown,Beverages,130.0,325.0,14.3
+2026-02-08,Suburb Mall,Beverages,133.0,332.5,11.4
+2026-02-07,Suburb Mall,Beverages,104.0,260.0,10.4
+2026-02-14,Riverside,Ice Cream,66.0,297.0,15.9
+2026-01-14,Downtown,Ice Cream,33.0,148.5,7.2
+2026-01-04,Riverside,Bakery,62.0,217.0,1.9
+2026-02-08,Uptown,Snacks,86.0,258.0,11.4
+2026-03-18,Downtown,Beverages,149.0,372.5,19.5
+2026-02-22,Riverside,Ice Cream,44.0,198.0,15.8
+2026-03-16,Suburb Mall,Beverages,132.0,330.0,16.7
+2026-02-03,Suburb Mall,Produce,,130.0,12.3
+2026-01-18,Downtown,Beverages,122.0,305.0,7.0
+2026-01-04,Downtown,Ice Cream,14.0,63.0,1.9
+2026-01-30,Uptown,Beverages,123.0,307.5,14.3
+2026-02-18,Riverside,Produce,88.0,176.0,16.1
+2026-03-12,Uptown,Ice Cream,,270.0,20.3
+2026-03-15,Uptown,Beverages,88.0,220.0,16.7
+2026-03-30,Riverside,Produce,45.0,90.0,22.6
+2026-03-21,Uptown,Ice Cream,68.0,306.0,21.6
+2026-01-25,Downtown,Produce,48.0,,7.0
+2026-03-05,Downtown,Snacks,69.0,207.0,17.0
+2026-03-31,Riverside,Beverages,135.0,337.5,18.6
+2026-03-22,Uptown,Produce,71.0,142.0,19.5
+2026-03-07,Riverside,Ice Cream,48.0,216.0,15.4
+2026-02-05,Downtown,Snacks,102.0,306.0,12.3
+2026-01-20,Suburb Mall,Beverages,111.0,277.5,11.9
+2026-01-06,Downtown,Snacks,90.0,270.0,7.0
+2026-02-06,Downtown,Snacks,80.0,240.0,12.5
+2026-03-07,Riverside,Beverages,114.0,285.0,15.4
+2026-02-26,Downtown,Ice Cream,24.0,108.0,9.3
+2026-01-16,Uptown,Ice Cream,57.0,256.5,7.6
+2026-03-29,Suburb Mall,Beverages,127.0,317.5,23.7
+2026-01-10,Downtown,Beverages,110.0,275.0,2.0
+2026-03-04,Downtown,Bakery,72.0,252.0,14.8
+2026-03-14,Suburb Mall,Bakery,51.0,178.5,14.8
+2026-03-13,Uptown,Produce,60.0,120.0,24.5
+2026-03-10,Suburb Mall,Ice Cream,50.0,225.0,15.7
+2026-01-01,Riverside,Produce,51.0,102.0,6.5
+2026-02-26,Riverside,Snacks,96.0,288.0,9.3
+2026-02-05,Suburb Mall,Beverages,104.0,260.0,12.3
+2026-03-07,Uptown,Ice Cream,36.0,162.0,15.4
+2026-01-13,Uptown,Produce,22.0,44.0,13.4
+2026-02-09,Downtown,Bakery,67.0,234.5,14.7
+2026-03-31,Suburb Mall,Bakery,68.0,238.0,18.6
+2026-01-16,Downtown,Produce,59.0,118.0,7.6
+2026-02-10,Riverside,Snacks,83.0,249.0,11.5
+2026-03-15,Downtown,Bakery,66.0,231.0,16.7
+2026-01-26,Uptown,Snacks,86.0,258.0,3.8
+2026-03-07,Riverside,Produce,70.0,140.0,15.4
+2026-03-31,Downtown,Produce,80.0,160.0,18.6
+2026-03-08,Uptown,Ice Cream,65.0,292.5,19.9
+2026-01-06,Uptown,Snacks,89.0,267.0,7.0
+2026-02-01,Uptown,Beverages,121.0,302.5,13.5
+2026-03-20,Downtown,Snacks,97.0,291.0,24.2
+2026-03-21,Suburb Mall,Bakery,87.0,304.5,21.6
+2026-01-09,Uptown,Bakery,85.0,297.5,5.6
+2026-01-12,Downtown,Beverages,119.0,297.5,7.5
+2026-03-06,Riverside,Beverages,93.0,232.5,18.5
+2026-03-19,Uptown,Snacks,115.0,345.0,15.6
+2026-03-15,Suburb Mall,Bakery,62.0,217.0,16.7
+2026-02-19,Downtown,Ice Cream,45.0,202.5,10.1
+2026-01-15,Riverside,Produce,56.0,112.0,8.4
+2026-03-21,Uptown,Snacks,83.0,249.0,21.6
+2026-01-11,Uptown,Bakery,70.0,245.0,8.4
+2026-03-12,Suburb Mall,Ice Cream,52.0,234.0,20.3
+2026-02-10,Downtown,Beverages,128.0,320.0,11.5
+2026-02-03,Riverside,Snacks,98.0,294.0,12.3
+2026-01-10,Downtown,Snacks,96.0,288.0,2.0
+2026-01-24,Riverside,Ice Cream,25.0,112.5,9.4
+2026-03-14,Suburb Mall,Beverages,116.0,290.0,14.8
+2026-02-23,Suburb Mall,Ice Cream,60.0,270.0,15.3
+2026-01-27,Downtown,Ice Cream,36.0,162.0,11.1
+2026-02-17,Suburb Mall,Ice Cream,,274.5,15.5
+2026-03-30,Uptown,Bakery,73.0,255.5,22.6
+2026-01-27,Downtown,Beverages,118.0,295.0,11.1
+2026-03-29,Riverside,Snacks,94.0,282.0,23.7
+2026-01-30,Suburb Mall,Beverages,116.0,290.0,14.3
+2026-03-23,Suburb Mall,Snacks,103.0,309.0,20.0
+2026-03-29,Downtown,Produce,78.0,156.0,23.7
+2026-02-25,Suburb Mall,Bakery,64.0,224.0,17.2
+2026-02-10,Downtown,Bakery,72.0,252.0,11.5
+2026-01-30,Downtown,Bakery,58.0,203.0,14.3
+2026-02-18,Uptown,Ice Cream,50.0,225.0,16.1
+2026-01-25,Downtown,Snacks,81.0,243.0,7.0
+2026-03-24,Uptown,Ice Cream,70.0,315.0,20.9
+2026-02-02,Riverside,Snacks,74.0,222.0,9.3
+2026-02-08,Suburb Mall,Snacks,72.0,216.0,11.4
+2026-02-17,Riverside,Ice Cream,73.0,328.5,15.5
+2026-01-10,Downtown,Produce,58.0,116.0,2.0
+2026-01-26,Downtown,Bakery,56.0,196.0,3.8
+2026-03-07,Riverside,Snacks,105.0,315.0,15.4
+2026-01-05,Riverside,Bakery,66.0,231.0,3.2
+2026-03-20,Riverside,Produce,62.0,124.0,24.2
+2026-02-04,Downtown,Snacks,91.0,273.0,10.6
+2026-01-11,Suburb Mall,Produce,50.0,100.0,8.4
+2026-03-26,Suburb Mall,Produce,65.0,130.0,18.3
+2026-01-07,Riverside,Beverages,112.0,280.0,3.0
+2026-03-12,Downtown,Beverages,117.0,292.5,20.3
+2026-01-22,Downtown,Beverages,94.0,235.0,8.4
+2026-01-06,Riverside,Produce,67.0,134.0,7.0
+2026-02-14,Uptown,Snacks,115.0,345.0,15.9
+2026-03-30,Riverside,Beverages,129.0,322.5,22.6
+2026-01-05,Downtown,Beverages,110.0,275.0,3.2
+2026-02-16,Riverside,Snacks,71.0,213.0,10.6
+2026-01-03,Riverside,Produce,53.0,106.0,5.0
+2026-03-11,Downtown,Beverages,127.0,317.5,16.6
+2026-02-11,Suburb Mall,Bakery,98.0,343.0,7.3
+2026-02-09,Uptown,Produce,58.0,116.0,14.7
+2026-03-30,Riverside,Snacks,94.0,282.0,22.6
+2026-01-07,Downtown,Bakery,47.0,164.5,3.0
+2026-02-20,Uptown,Bakery,66.0,231.0,11.5
+2026-03-31,Uptown,Ice Cream,63.0,283.5,18.6
+2026-03-25,Suburb Mall,Ice Cream,85.0,382.5,22.3
+2026-03-08,Riverside,Produce,71.0,142.0,19.9
+2026-01-02,Suburb Mall,Produce,59.0,118.0,4.5
+2026-03-28,Downtown,Ice Cream,81.0,364.5,20.1
+2026-01-22,Downtown,Bakery,77.0,269.5,8.4
+2026-02-08,Riverside,Snacks,88.0,264.0,11.4
+2026-03-07,Downtown,Snacks,81.0,243.0,15.4
+2026-03-19,Uptown,Produce,78.0,156.0,15.6
+2026-01-10,Riverside,Ice Cream,28.0,126.0,2.0
+2026-01-24,Riverside,Produce,49.0,98.0,9.4
+2026-01-11,Downtown,Bakery,65.0,227.5,8.4
+2026-01-02,Downtown,Produce,43.0,86.0,4.5
+2026-01-01,Uptown,Ice Cream,23.0,103.5,6.5
+2026-02-02,Downtown,Bakery,56.0,,9.3
+2026-01-04,Downtown,Beverages,125.0,312.5,1.9
+2026-01-24,Suburb Mall,Beverages,103.0,257.5,9.4
+2026-02-21,Riverside,Beverages,118.0,295.0,14.9
+2026-03-28,Suburb Mall,Snacks,87.0,261.0,20.1
+2026-03-03,Suburb Mall,Snacks,95.0,285.0,14.7
+2026-01-06,Suburb Mall,Ice Cream,14.0,63.0,7.0
+2026-02-24,Downtown,Snacks,105.0,315.0,13.3
+2026-02-26,Uptown,Beverages,130.0,325.0,9.3
+2026-01-23,Riverside,Snacks,108.0,324.0,6.6
+2026-02-10,Uptown,Snacks,120.0,360.0,11.5
+2026-03-17,Uptown,Snacks,81.0,243.0,17.4
+2026-03-02,Suburb Mall,Produce,64.0,128.0,16.7
+2026-02-25,Downtown,Produce,33.0,66.0,17.2
+2026-03-02,Suburb Mall,Ice Cream,62.0,,16.7
+2026-01-11,Riverside,Ice Cream,15.0,67.5,8.4
+2026-01-20,Downtown,Produce,55.0,110.0,11.9
+2026-01-06,Uptown,Bakery,,231.0,7.0
+2026-03-28,Downtown,Snacks,76.0,228.0,20.1
+2026-01-28,Downtown,Snacks,84.0,252.0,6.5
+2026-01-18,Suburb Mall,Produce,60.0,120.0,7.0
+2026-01-09,Suburb Mall,Snacks,96.0,288.0,5.6
+2026-01-18,Riverside,Snacks,79.0,237.0,7.0
+2026-02-25,Uptown,Bakery,85.0,297.5,17.2
+2026-03-13,Downtown,Ice Cream,102.0,459.0,24.5
+2026-02-08,Downtown,Beverages,121.0,302.5,11.4
+2026-01-25,Riverside,Beverages,127.0,317.5,7.0
+2026-02-23,Uptown,Produce,48.0,96.0,15.3
+2026-03-01,Downtown,Bakery,62.0,217.0,19.7
+2026-01-14,Uptown,Snacks,89.0,267.0,7.2
+2026-01-17,Downtown,Beverages,113.0,282.5,5.2
+2026-01-30,Riverside,Ice Cream,75.0,337.5,14.3
+2026-02-01,Downtown,Bakery,72.0,252.0,13.5
+2026-02-12,Riverside,Produce,62.0,124.0,10.5
+2026-01-05,Downtown,Snacks,97.0,291.0,3.2
+2026-01-14,Uptown,Bakery,87.0,304.5,7.2
+2026-03-16,Downtown,Bakery,91.0,318.5,16.7
+2026-01-14,Uptown,Ice Cream,39.0,175.5,7.2
+2026-01-05,Suburb Mall,Ice Cream,15.0,67.5,3.2
+2026-01-08,Downtown,Ice Cream,19.0,85.5,2.2
+2026-02-17,Downtown,Ice Cream,59.0,265.5,15.5
+2026-01-27,Riverside,Beverages,115.0,287.5,11.1
+2026-01-19,Suburb Mall,Bakery,88.0,308.0,14.6
+2026-01-04,Downtown,Snacks,102.0,306.0,1.9
+2026-03-31,Downtown,Beverages,111.0,277.5,18.6
+2026-02-09,Downtown,Snacks,109.0,327.0,14.7
+2026-03-07,Riverside,Bakery,,329.0,15.4
+2026-02-13,Downtown,Snacks,93.0,279.0,16.0
+2026-02-24,Suburb Mall,Beverages,109.0,272.5,13.3
+2026-03-27,Suburb Mall,Beverages,121.0,302.5,14.8
+2026-01-02,Downtown,Ice Cream,16.0,72.0,4.5
+2026-02-01,Uptown,Bakery,64.0,224.0,13.5
+2026-03-01,Riverside,Bakery,79.0,276.5,19.7
+2026-03-20,Uptown,Ice Cream,80.0,360.0,24.2
+2026-02-08,Riverside,Bakery,88.0,308.0,11.4
+2026-01-20,Downtown,Bakery,71.0,248.5,11.9
+2026-01-18,Uptown,Bakery,71.0,248.5,7.0
+2026-03-09,Riverside,Snacks,101.0,303.0,20.7
+2026-01-18,Riverside,Beverages,119.0,297.5,7.0
+2026-02-02,Suburb Mall,Ice Cream,33.0,148.5,9.3
+2026-03-06,Suburb Mall,Beverages,124.0,310.0,18.5
+2026-02-24,Riverside,Ice Cream,32.0,144.0,13.3
+2026-03-15,Suburb Mall,Snacks,92.0,276.0,16.7
+2026-01-22,Riverside,Produce,57.0,114.0,8.4
+2026-02-04,Uptown,Ice Cream,25.0,112.5,10.6
+2026-01-11,Suburb Mall,Snacks,76.0,228.0,8.4
+2026-03-05,Riverside,Bakery,69.0,241.5,17.0
+2026-01-20,Uptown,Ice Cream,43.0,193.5,11.9
+2026-03-26,Downtown,Produce,70.0,140.0,18.3
+2026-03-06,Suburb Mall,Snacks,101.0,303.0,18.5
+2026-01-09,Suburb Mall,Ice Cream,32.0,144.0,5.6
+2026-03-12,Riverside,Beverages,,300.0,20.3
+2026-02-05,Riverside,Produce,50.0,100.0,12.3
+2026-01-23,Suburb Mall,Bakery,56.0,196.0,6.6
+2026-02-13,Downtown,Produce,70.0,140.0,16.0
+2026-03-26,Downtown,Ice Cream,62.0,279.0,18.3
+2026-01-01,Downtown,Bakery,65.0,227.5,6.5
+2026-01-14,Downtown,Bakery,61.0,213.5,7.2
+2026-01-22,Riverside,Ice Cream,28.0,126.0,8.4
+2026-01-25,Riverside,Snacks,94.0,282.0,7.0
+2026-01-26,Downtown,Produce,64.0,128.0,3.8
+2026-02-18,Riverside,Beverages,128.0,320.0,16.1
+2026-02-02,Uptown,Snacks,104.0,312.0,9.3
+2026-02-08,Downtown,Bakery,71.0,248.5,11.4
+2026-01-20,Suburb Mall,Ice Cream,47.0,211.5,11.9
+2026-02-20,Suburb Mall,Beverages,105.0,262.5,11.5
+2026-03-21,Riverside,Bakery,64.0,224.0,21.6
+2026-03-04,Riverside,Beverages,129.0,322.5,14.8
+2026-01-23,Downtown,Produce,67.0,134.0,6.6
+2026-01-27,Suburb Mall,Snacks,86.0,258.0,11.1
+2026-03-04,Suburb Mall,Produce,61.0,122.0,14.8
+2026-03-10,Uptown,Bakery,92.0,322.0,15.7
+2026-02-07,Riverside,Ice Cream,46.0,207.0,10.4
+2026-01-11,Downtown,Beverages,132.0,330.0,8.4
+2026-01-11,Downtown,Snacks,100.0,300.0,8.4
+2026-03-06,Downtown,Snacks,63.0,189.0,18.5
+2026-03-22,Suburb Mall,Ice Cream,74.0,333.0,19.5
+2026-02-21,Suburb Mall,Bakery,71.0,248.5,14.9
+2026-03-04,Riverside,Bakery,59.0,206.5,14.8
+2026-02-27,Riverside,Produce,54.0,108.0,16.2
+2026-02-28,Uptown,Bakery,69.0,241.5,12.2
+2026-01-29,Downtown,Bakery,76.0,266.0,12.2
+2026-02-14,Downtown,Ice Cream,62.0,279.0,15.9
+2026-02-08,Uptown,Bakery,64.0,224.0,11.4
+2026-02-04,Suburb Mall,Produce,72.0,144.0,10.6
+2026-02-26,Downtown,Bakery,71.0,248.5,9.3
+2026-01-26,Uptown,Ice Cream,,27.0,3.8
+2026-02-28,Uptown,Produce,72.0,144.0,12.2
+2026-03-14,Suburb Mall,Snacks,78.0,234.0,14.8
+2026-01-24,Riverside,Snacks,96.0,288.0,9.4
+2026-01-02,Riverside,Ice Cream,33.0,148.5,4.5
+2026-01-14,Riverside,Snacks,65.0,195.0,7.2
+2026-01-21,Uptown,Ice Cream,66.0,297.0,14.5
+2026-02-15,Downtown,Bakery,72.0,252.0,9.3
+2026-02-27,Uptown,Ice Cream,59.0,265.5,16.2
+2026-02-11,Downtown,Beverages,137.0,342.5,7.3
+2026-01-24,Riverside,Beverages,137.0,342.5,9.4
+2026-03-01,Downtown,Ice Cream,62.0,279.0,19.7
+2026-02-21,Uptown,Beverages,117.0,292.5,14.9
+2026-02-15,Riverside,Beverages,123.0,307.5,9.3
+2026-03-01,Riverside,Ice Cream,45.0,202.5,19.7
+2026-03-27,Uptown,Ice Cream,,279.0,14.8
+2026-01-20,Downtown,Ice Cream,,202.5,11.9
+2026-01-14,Riverside,Produce,61.0,122.0,7.2
+2026-02-20,Suburb Mall,Ice Cream,38.0,171.0,11.5
+2026-01-01,Uptown,Snacks,97.0,291.0,6.5
+2026-02-15,Downtown,Beverages,,252.5,9.3
+2026-02-21,Uptown,Bakery,68.0,238.0,14.9
+2026-03-29,Riverside,Beverages,126.0,315.0,23.7
+2026-01-11,Riverside,Beverages,96.0,240.0,8.4
+2026-01-07,Downtown,Ice Cream,12.0,54.0,3.0
+2026-03-23,Riverside,Ice Cream,63.0,283.5,20.0
+2026-02-11,Uptown,Beverages,122.0,305.0,7.3
+2026-01-01,Downtown,Snacks,96.0,288.0,6.5
+2026-02-10,Riverside,Bakery,87.0,304.5,11.5
+2026-03-10,Suburb Mall,Produce,77.0,154.0,15.7
+2026-02-25,Suburb Mall,Produce,60.0,120.0,17.2
+2026-02-24,Uptown,Bakery,73.0,255.5,13.3
+2026-02-17,Downtown,Beverages,120.0,300.0,15.5
+2026-01-16,Riverside,Snacks,98.0,294.0,7.6
+2026-01-12,Riverside,Produce,53.0,106.0,7.5
+2026-01-06,Downtown,Beverages,141.0,352.5,7.0
+2026-03-01,Suburb Mall,Bakery,66.0,231.0,19.7
+2026-01-16,Suburb Mall,Bakery,80.0,280.0,7.6
+2026-03-03,Uptown,Produce,92.0,184.0,14.7
+2026-01-17,Suburb Mall,Bakery,55.0,192.5,5.2
+2026-01-21,Downtown,Bakery,79.0,276.5,14.5
+2026-01-20,Uptown,Produce,67.0,134.0,11.9
+2026-01-06,Downtown,Bakery,67.0,234.5,7.0
+2026-01-10,Suburb Mall,Snacks,92.0,276.0,2.0
+2026-03-12,Riverside,Ice Cream,66.0,297.0,20.3
+2026-01-30,Riverside,Beverages,112.0,280.0,14.3
+2026-02-17,Downtown,Snacks,93.0,279.0,15.5
+2026-03-31,Riverside,Produce,63.0,126.0,18.6
+2026-02-01,Downtown,Snacks,78.0,234.0,13.5
+2026-01-07,Riverside,Produce,72.0,144.0,3.0
+2026-03-15,Riverside,Beverages,116.0,290.0,16.7
+2026-02-05,Downtown,Beverages,124.0,310.0,12.3
+2026-03-02,Suburb Mall,Snacks,98.0,294.0,16.7
+2026-02-28,Uptown,Snacks,89.0,267.0,12.2
+2026-01-21,Riverside,Beverages,97.0,242.5,14.5
+2026-01-15,Suburb Mall,Bakery,78.0,273.0,8.4
+2026-03-24,Riverside,Bakery,62.0,217.0,20.9
+2026-03-08,Uptown,Beverages,149.0,372.5,19.9
+2026-02-03,Uptown,Bakery,62.0,217.0,12.3
+2026-01-24,Downtown,Produce,79.0,,9.4
+2026-01-30,Suburb Mall,Produce,75.0,150.0,14.3
+2026-01-28,Riverside,Snacks,101.0,303.0,6.5
+2026-02-27,Riverside,Ice Cream,43.0,193.5,16.2
+2026-01-09,Downtown,Beverages,108.0,270.0,5.6
+2026-02-01,Suburb Mall,Beverages,139.0,347.5,13.5
+2026-03-12,Suburb Mall,Produce,58.0,116.0,20.3
+2026-03-31,Downtown,Ice Cream,62.0,279.0,18.6
+2026-03-18,Suburb Mall,Snacks,93.0,279.0,19.5
+2026-01-31,Riverside,Produce,54.0,108.0,4.9
+2026-02-26,Uptown,Produce,47.0,94.0,9.3
+2026-03-29,Suburb Mall,Ice Cream,68.0,306.0,23.7
+2026-03-09,Riverside,Bakery,88.0,308.0,20.7
+2026-03-30,Downtown,Produce,77.0,154.0,22.6
+2026-01-12,Suburb Mall,Beverages,110.0,275.0,7.5
+2026-03-21,Suburb Mall,Produce,60.0,120.0,21.6
+2026-01-05,Uptown,Beverages,117.0,292.5,3.2
+2026-01-19,Uptown,Beverages,113.0,282.5,14.6
+2026-03-26,Suburb Mall,Beverages,107.0,267.5,18.3
+2026-01-12,Riverside,Ice Cream,18.0,81.0,7.5
+2026-02-20,Uptown,Produce,70.0,140.0,11.5
+2026-01-19,Riverside,Snacks,81.0,243.0,14.6
+2026-01-01,Suburb Mall,Snacks,92.0,276.0,6.5
+2026-03-24,Downtown,Bakery,69.0,241.5,20.9
+2026-02-23,Riverside,Beverages,142.0,355.0,15.3
+2026-03-18,Downtown,Ice Cream,59.0,265.5,19.5
+2026-01-29,Riverside,Ice Cream,35.0,157.5,12.2
+2026-01-18,Downtown,Produce,57.0,114.0,7.0
+2026-01-07,Uptown,Produce,47.0,94.0,3.0
+2026-01-14,Uptown,Produce,43.0,86.0,7.2
+2026-01-31,Riverside,Bakery,64.0,224.0,4.9
+2026-03-24,Suburb Mall,Produce,66.0,132.0,20.9
+2026-01-05,Riverside,Produce,53.0,106.0,3.2
+2026-03-16,Uptown,Bakery,83.0,290.5,16.7
+2026-03-27,Riverside,Beverages,118.0,295.0,14.8
+2026-03-27,Downtown,Snacks,,249.0,14.8
+2026-02-01,Uptown,Ice Cream,48.0,216.0,13.5
+2026-01-10,Suburb Mall,Beverages,104.0,260.0,2.0
+2026-03-19,Suburb Mall,Snacks,88.0,264.0,15.6
+2026-03-09,Suburb Mall,Snacks,82.0,246.0,20.7
+2026-01-13,Downtown,Ice Cream,44.0,198.0,13.4
+2026-02-14,Downtown,Snacks,,258.0,15.9
+2026-02-25,Downtown,Bakery,69.0,241.5,17.2
+2026-03-31,Suburb Mall,Produce,64.0,128.0,18.6
+2026-01-03,Downtown,Bakery,61.0,213.5,5.0
+2026-02-10,Downtown,Snacks,77.0,231.0,11.5
+2026-02-22,Downtown,Produce,38.0,76.0,15.8
+2026-01-11,Uptown,Beverages,109.0,272.5,8.4
+2026-03-27,Uptown,Beverages,123.0,307.5,14.8
+2026-03-03,Riverside,Beverages,122.0,305.0,14.7
+2026-02-09,Riverside,Ice Cream,42.0,189.0,14.7
+2026-01-19,Downtown,Snacks,82.0,246.0,14.6
+2026-01-05,Riverside,Snacks,90.0,270.0,3.2
+2026-03-07,Suburb Mall,Snacks,118.0,354.0,15.4
+2026-02-28,Riverside,Produce,92.0,184.0,12.2
+2026-03-14,Uptown,Produce,59.0,118.0,14.8
+2026-01-05,Downtown,Ice Cream,23.0,103.5,3.2
+2026-02-25,Riverside,Snacks,100.0,300.0,17.2
+2026-03-27,Uptown,Bakery,74.0,259.0,14.8
+2026-02-28,Uptown,Beverages,118.0,295.0,12.2
+2026-03-06,Downtown,Beverages,106.0,265.0,18.5
+2026-03-16,Downtown,Ice Cream,50.0,225.0,16.7
+2026-01-17,Suburb Mall,Produce,57.0,114.0,5.2
+2026-03-14,Riverside,Produce,80.0,160.0,14.8
+2026-03-18,Suburb Mall,Ice Cream,66.0,297.0,19.5
+2026-02-23,Downtown,Bakery,71.0,248.5,15.3
+2026-02-06,Riverside,Bakery,79.0,276.5,12.5
+2026-01-05,Suburb Mall,Snacks,81.0,243.0,3.2
+2026-01-05,Downtown,Produce,62.0,124.0,3.2
+2026-02-10,Suburb Mall,Ice Cream,37.0,166.5,11.5
+2026-03-04,Riverside,Produce,58.0,116.0,14.8
+2026-02-07,Suburb Mall,Snacks,77.0,231.0,10.4
+2026-02-05,Downtown,Ice Cream,66.0,297.0,12.3
+2026-02-08,Downtown,Ice Cream,38.0,171.0,11.4
+2026-03-29,Uptown,Bakery,63.0,220.5,23.7
+2026-01-16,Riverside,Produce,58.0,116.0,7.6
+2026-03-12,Suburb Mall,Snacks,74.0,222.0,20.3
+2026-02-14,Downtown,Produce,62.0,124.0,15.9
+2026-02-08,Suburb Mall,Bakery,81.0,283.5,11.4
+2026-02-05,Riverside,Beverages,123.0,307.5,12.3
+2026-01-31,Suburb Mall,Produce,79.0,158.0,4.9
+2026-02-20,Riverside,Bakery,66.0,231.0,11.5
+2026-02-01,Riverside,Bakery,73.0,255.5,13.5
+2026-01-28,Suburb Mall,Beverages,145.0,362.5,6.5
+2026-03-01,Suburb Mall,Snacks,114.0,342.0,19.7
+2026-01-10,Suburb Mall,Ice Cream,22.0,99.0,2.0
+2026-03-26,Riverside,Beverages,108.0,,18.3
+2026-02-12,Riverside,Snacks,106.0,318.0,10.5
+2026-03-25,Riverside,Produce,85.0,170.0,22.3
+2026-03-24,Riverside,Ice Cream,53.0,238.5,20.9
+2026-03-11,Uptown,Beverages,102.0,255.0,16.6
+2026-02-18,Suburb Mall,Bakery,74.0,259.0,16.1
+2026-02-09,Downtown,Produce,57.0,,14.7
+2026-03-03,Uptown,Beverages,128.0,320.0,14.7
+2026-01-08,Downtown,Beverages,122.0,305.0,2.2
+2026-03-08,Suburb Mall,Snacks,103.0,309.0,19.9
+2026-02-15,Riverside,Produce,67.0,134.0,9.3
+2026-01-03,Uptown,Bakery,,217.0,5.0
+2026-03-11,Riverside,Ice Cream,57.0,256.5,16.6
+2026-02-22,Riverside,Snacks,,318.0,15.8
+2026-02-17,Riverside,Beverages,115.0,287.5,15.5
+2026-02-26,Downtown,Beverages,118.0,295.0,9.3
+2026-02-08,Uptown,Produce,75.0,150.0,11.4
+2026-03-18,Riverside,Ice Cream,65.0,292.5,19.5
+2026-01-13,Downtown,Snacks,73.0,,13.4
+2026-01-02,Uptown,Bakery,60.0,210.0,4.5
+2026-03-04,Suburb Mall,Snacks,90.0,270.0,14.8
+2026-03-15,Uptown,Snacks,93.0,279.0,16.7
+2026-03-26,Uptown,Bakery,76.0,266.0,18.3
+2026-03-27,Suburb Mall,Bakery,50.0,175.0,14.8
+2026-02-24,Downtown,Produce,70.0,140.0,13.3
+2026-01-01,Riverside,Ice Cream,6.0,27.0,6.5
+2026-03-25,Uptown,Bakery,68.0,238.0,22.3
+2026-02-22,Uptown,Beverages,133.0,332.5,15.8
+2026-02-24,Riverside,Bakery,90.0,315.0,13.3
+2026-02-19,Uptown,Beverages,138.0,345.0,10.1
+2026-01-09,Riverside,Bakery,54.0,189.0,5.6
+2026-02-23,Downtown,Ice Cream,84.0,378.0,15.3
+2026-03-28,Riverside,Snacks,92.0,276.0,20.1
+2026-01-24,Uptown,Produce,49.0,98.0,9.4
+2026-01-14,Riverside,Ice Cream,29.0,130.5,7.2
+2026-02-14,Suburb Mall,Produce,85.0,170.0,15.9
+2026-03-10,Riverside,Bakery,75.0,262.5,15.7
+2026-02-03,Riverside,Bakery,92.0,322.0,12.3
+2026-03-20,Uptown,Beverages,114.0,285.0,24.2
+2026-01-04,Uptown,Produce,74.0,148.0,1.9
+2026-02-22,Uptown,Ice Cream,69.0,310.5,15.8
+2026-03-05,Uptown,Produce,81.0,162.0,17.0
+2026-02-12,Suburb Mall,Snacks,80.0,240.0,10.5
+2026-03-23,Suburb Mall,Ice Cream,64.0,288.0,20.0
+2026-01-17,Uptown,Produce,40.0,80.0,5.2
+2026-01-31,Uptown,Snacks,88.0,264.0,4.9
+2026-01-20,Uptown,Snacks,78.0,234.0,11.9
+2026-01-29,Downtown,Snacks,91.0,273.0,12.2
+2026-01-16,Downtown,Ice Cream,36.0,162.0,7.6
+2026-03-25,Uptown,Snacks,63.0,189.0,22.3
+2026-03-22,Suburb Mall,Bakery,76.0,266.0,19.5
+2026-03-23,Downtown,Produce,73.0,146.0,20.0
+2026-02-27,Riverside,Produce,54.0,108.0,16.2
+2026-01-18,Uptown,Snacks,96.0,288.0,7.0
+2026-03-02,Riverside,Beverages,130.0,325.0,16.7
+2026-01-18,Suburb Mall,Beverages,130.0,325.0,7.0
+2026-03-21,Uptown,Produce,72.0,,21.6
+2026-03-15,Downtown,Ice Cream,,297.0,16.7
+2026-02-04,Suburb Mall,Ice Cream,46.0,207.0,10.6
+2026-02-12,Uptown,Ice Cream,51.0,229.5,10.5
+2026-03-26,Suburb Mall,Ice Cream,46.0,207.0,18.3
+2026-02-01,Downtown,Ice Cream,81.0,364.5,13.5
+2026-02-28,Downtown,Snacks,76.0,228.0,12.2
+2026-01-27,Uptown,Bakery,65.0,227.5,11.1
+2026-02-09,Suburb Mall,Snacks,110.0,330.0,14.7
+2026-03-09,Uptown,Ice Cream,83.0,373.5,20.7
+2026-01-11,Suburb Mall,Ice Cream,26.0,117.0,8.4
+2026-01-31,Downtown,Bakery,55.0,192.5,4.9
+2026-02-16,Downtown,Produce,52.0,104.0,10.6
+2026-02-21,Downtown,Ice Cream,66.0,297.0,14.9
+2026-02-14,Downtown,Bakery,91.0,318.5,15.9
+2026-01-23,Riverside,Bakery,75.0,262.5,6.6
+2026-01-26,Riverside,Beverages,,265.0,3.8
+2026-01-21,Suburb Mall,Beverages,141.0,352.5,14.5
+2026-03-25,Suburb Mall,Beverages,141.0,352.5,22.3
+2026-03-03,Uptown,Bakery,77.0,269.5,14.7
+2026-02-10,Uptown,Ice Cream,36.0,162.0,11.5
+2026-02-04,Uptown,Bakery,79.0,276.5,10.6
+2026-02-11,Suburb Mall,Beverages,121.0,302.5,7.3
+2026-01-27,Uptown,Produce,54.0,108.0,11.1
+2026-03-22,Riverside,Produce,88.0,176.0,19.5
+2026-02-12,Downtown,Bakery,77.0,269.5,10.5
+2026-01-17,Uptown,Ice Cream,19.0,85.5,5.2
+2026-01-27,Riverside,Ice Cream,38.0,171.0,11.1
+2026-03-11,Riverside,Snacks,78.0,234.0,16.6
+2026-02-15,Suburb Mall,Beverages,135.0,337.5,9.3
+2026-01-21,Downtown,Beverages,143.0,357.5,14.5
+2026-03-02,Suburb Mall,Produce,64.0,128.0,16.7
+2026-02-23,Uptown,Beverages,135.0,337.5,15.3
+2026-03-10,Suburb Mall,Beverages,127.0,317.5,15.7
+2026-02-16,Suburb Mall,Bakery,56.0,196.0,10.6
+2026-03-19,Suburb Mall,Beverages,135.0,337.5,15.6
+2026-02-02,Uptown,Bakery,56.0,196.0,9.3
+2026-01-10,Suburb Mall,Produce,102.0,204.0,2.0
+2026-03-24,Uptown,Bakery,71.0,248.5,20.9
+2026-03-26,Uptown,Beverages,124.0,310.0,18.3
+2026-03-04,Uptown,Ice Cream,54.0,243.0,14.8
+2026-01-25,Downtown,Beverages,112.0,280.0,7.0
+2026-03-07,Uptown,Bakery,90.0,315.0,15.4
+2026-01-26,Riverside,Produce,66.0,132.0,3.8
+2026-03-21,Downtown,Snacks,94.0,282.0,21.6
+2026-03-23,Suburb Mall,Produce,61.0,122.0,20.0
+2026-02-01,Suburb Mall,Produce,36.0,72.0,13.5
+2026-03-11,Riverside,Bakery,63.0,220.5,16.6
+2026-01-10,Downtown,Ice Cream,18.0,81.0,2.0
+2026-03-02,Uptown,Snacks,82.0,246.0,16.7
+2026-02-16,Riverside,Bakery,79.0,276.5,10.6
+2026-02-14,Riverside,Produce,56.0,112.0,15.9
+2026-01-10,Uptown,Beverages,120.0,300.0,2.0
+2026-01-27,Riverside,Snacks,95.0,285.0,11.1
+2026-02-27,Suburb Mall,Snacks,89.0,267.0,16.2
+2026-02-04,Uptown,Produce,62.0,124.0,10.6
+2026-02-07,Uptown,Beverages,127.0,317.5,10.4
+2026-02-08,Downtown,Produce,55.0,110.0,11.4
+2026-02-12,Uptown,Beverages,127.0,317.5,10.5
+2026-03-04,Suburb Mall,Bakery,78.0,273.0,14.8
+2026-01-25,Uptown,Beverages,121.0,302.5,7.0
+2026-01-15,Suburb Mall,Snacks,102.0,306.0,8.4
+2026-02-22,Downtown,Bakery,73.0,255.5,15.8
+2026-03-13,Riverside,Snacks,97.0,291.0,24.5
+2026-01-19,Riverside,Bakery,56.0,196.0,14.6
+2026-02-20,Downtown,Produce,52.0,104.0,11.5
+2026-01-29,Downtown,Beverages,110.0,275.0,12.2
+2026-01-31,Uptown,Ice Cream,9.0,40.5,4.9
+2026-01-16,Suburb Mall,Bakery,80.0,280.0,7.6
+2026-03-13,Uptown,Ice Cream,,405.0,24.5
+2026-03-29,Uptown,Snacks,89.0,267.0,23.7
+2026-03-15,Riverside,Produce,72.0,144.0,16.7
+2026-03-30,Downtown,Ice Cream,99.0,445.5,22.6
+2026-01-06,Suburb Mall,Snacks,105.0,315.0,7.0
+2026-01-08,Uptown,Bakery,88.0,308.0,2.2
+2026-02-11,Downtown,Snacks,110.0,330.0,7.3
+2026-02-09,Suburb Mall,Ice Cream,42.0,189.0,14.7
+2026-03-21,Downtown,Beverages,141.0,352.5,21.6
+2026-03-28,Downtown,Produce,66.0,132.0,20.1
+2026-03-05,Riverside,Beverages,125.0,312.5,17.0
+2026-03-04,Downtown,Snacks,98.0,294.0,14.8
+2026-02-26,Suburb Mall,Beverages,112.0,280.0,9.3
+2026-02-05,Riverside,Bakery,54.0,189.0,12.3
+2026-03-23,Uptown,Ice Cream,,261.0,20.0
+2026-01-02,Suburb Mall,Ice Cream,25.0,112.5,4.5
+2026-03-11,Riverside,Beverages,121.0,302.5,16.6
+2026-02-27,Downtown,Ice Cream,60.0,270.0,16.2
+2026-03-04,Suburb Mall,Ice Cream,55.0,247.5,14.8
+2026-01-17,Suburb Mall,Beverages,127.0,317.5,5.2
+2026-01-02,Downtown,Bakery,68.0,238.0,4.5
+2026-03-06,Downtown,Ice Cream,76.0,342.0,18.5
+2026-03-08,Riverside,Bakery,62.0,217.0,19.9
+2026-01-31,Downtown,Ice Cream,19.0,85.5,4.9
+2026-02-12,Downtown,Produce,55.0,110.0,10.5
+2026-02-13,Suburb Mall,Snacks,105.0,315.0,16.0
+2026-01-28,Downtown,Beverages,95.0,237.5,6.5
+2026-03-12,Downtown,Snacks,93.0,279.0,20.3
+2026-03-14,Downtown,Ice Cream,52.0,234.0,14.8
+2026-03-20,Riverside,Snacks,104.0,312.0,24.2
+2026-03-30,Uptown,Produce,69.0,138.0,22.6
+2026-01-11,Uptown,Ice Cream,29.0,130.5,8.4
+2026-01-08,Downtown,Bakery,70.0,,2.2
+2026-02-25,Uptown,Beverages,,377.5,17.2
+2026-01-29,Uptown,Produce,55.0,110.0,12.2
+2026-03-30,Uptown,Snacks,88.0,264.0,22.6
+2026-01-07,Downtown,Snacks,87.0,261.0,3.0
+2026-02-18,Suburb Mall,Ice Cream,58.0,261.0,16.1
+2026-01-23,Riverside,Produce,62.0,124.0,6.6
+2026-01-25,Riverside,Produce,67.0,134.0,7.0
+2026-02-22,Riverside,Beverages,121.0,302.5,15.8
+2026-01-26,Downtown,Beverages,97.0,242.5,3.8
+2026-02-07,Riverside,Produce,63.0,126.0,10.4
+2026-02-19,Riverside,Ice Cream,53.0,238.5,10.1
+2026-01-20,Suburb Mall,Snacks,109.0,327.0,11.9
+2026-03-26,Riverside,Bakery,68.0,238.0,18.3
+2026-03-19,Downtown,Beverages,117.0,292.5,15.6
+2026-01-30,Uptown,Produce,64.0,128.0,14.3
+2026-03-30,Uptown,Beverages,138.0,345.0,22.6
+2026-03-18,Downtown,Bakery,72.0,252.0,19.5
+2026-02-09,Suburb Mall,Beverages,125.0,312.5,14.7
+2026-02-02,Uptown,Ice Cream,46.0,207.0,9.3
+2026-03-09,Downtown,Ice Cream,88.0,396.0,20.7
+2026-03-14,Suburb Mall,Produce,66.0,132.0,14.8
+2026-03-04,Downtown,Ice Cream,43.0,193.5,14.8
+2026-03-09,Suburb Mall,Produce,52.0,104.0,20.7
+2026-03-08,Downtown,Beverages,143.0,357.5,19.9
+2026-02-20,Riverside,Ice Cream,,103.5,11.5
+2026-03-30,Downtown,Snacks,88.0,264.0,22.6
+2026-02-18,Riverside,Ice Cream,51.0,229.5,16.1
+2026-02-17,Uptown,Ice Cream,53.0,238.5,15.5
+2026-02-15,Riverside,Ice Cream,44.0,198.0,9.3
+2026-01-24,Downtown,Beverages,110.0,275.0,9.4
+2026-01-15,Downtown,Produce,66.0,132.0,8.4
+2026-02-22,Uptown,Snacks,97.0,291.0,15.8
+2026-03-04,Riverside,Snacks,92.0,276.0,14.8
+2026-02-06,Downtown,Beverages,123.0,307.5,12.5
+2026-02-21,Uptown,Snacks,110.0,330.0,14.9
+2026-03-15,Uptown,Produce,57.0,114.0,16.7
+2026-01-28,Uptown,Bakery,71.0,248.5,6.5
+2026-02-22,Riverside,Bakery,80.0,280.0,15.8
+2026-01-25,Suburb Mall,Bakery,75.0,262.5,7.0
+2026-02-16,Downtown,Beverages,141.0,352.5,10.6
+2026-02-25,Suburb Mall,Snacks,94.0,282.0,17.2
+2026-03-16,Downtown,Snacks,,312.0,16.7
+2026-02-21,Uptown,Produce,58.0,116.0,14.9
+2026-03-25,Uptown,Ice Cream,85.0,382.5,22.3
+2026-03-07,Uptown,Beverages,143.0,357.5,15.4
+2026-02-22,Suburb Mall,Snacks,115.0,345.0,15.8
+2026-01-22,Downtown,Snacks,88.0,264.0,8.4
+2026-03-15,Riverside,Ice Cream,48.0,216.0,16.7
+2026-03-24,Riverside,Snacks,105.0,315.0,20.9
+2026-01-08,Suburb Mall,Snacks,97.0,291.0,2.2
+2026-01-29,Downtown,Produce,65.0,130.0,12.2
+2026-01-26,Suburb Mall,Produce,47.0,94.0,3.8
+2026-02-13,Riverside,Beverages,121.0,302.5,16.0
+2026-03-30,Downtown,Beverages,131.0,327.5,22.6
+2026-01-31,Riverside,Beverages,137.0,342.5,4.9
+2026-01-30,Uptown,Snacks,93.0,279.0,14.3
+2026-01-13,Suburb Mall,Produce,75.0,150.0,13.4
+2026-01-15,Suburb Mall,Ice Cream,45.0,202.5,8.4
+2026-03-18,Uptown,Snacks,85.0,255.0,19.5
+2026-03-16,Riverside,Produce,57.0,114.0,16.7
+2026-01-28,Riverside,Bakery,63.0,220.5,6.5
+2026-03-28,Riverside,Beverages,116.0,290.0,20.1
+2026-02-21,Riverside,Produce,74.0,148.0,14.9
+2026-02-04,Riverside,Snacks,90.0,270.0,10.6
+2026-02-21,Riverside,Snacks,117.0,351.0,14.9
+2026-03-03,Riverside,Ice Cream,55.0,247.5,14.7
+2026-02-12,Downtown,Ice Cream,63.0,283.5,10.5
+2026-03-11,Suburb Mall,Produce,68.0,136.0,16.6
+2026-03-23,Downtown,Ice Cream,74.0,333.0,20.0
+2026-03-13,Suburb Mall,Bakery,63.0,220.5,24.5
+2026-01-15,Riverside,Snacks,104.0,312.0,8.4
+2026-02-16,Uptown,Ice Cream,36.0,162.0,10.6
+2026-02-23,Riverside,Bakery,63.0,220.5,15.3
+2026-02-04,Uptown,Snacks,69.0,207.0,10.6
+2026-03-23,Riverside,Bakery,73.0,255.5,20.0
+2026-01-23,Uptown,Bakery,40.0,140.0,6.6
+2026-01-03,Riverside,Ice Cream,36.0,162.0,5.0
+2026-01-16,Uptown,Bakery,56.0,196.0,7.6
+2026-03-08,Suburb Mall,Produce,47.0,94.0,19.9
+2026-01-25,Uptown,Bakery,57.0,199.5,7.0
+2026-01-30,Riverside,Snacks,97.0,291.0,14.3
+2026-02-07,Downtown,Ice Cream,43.0,193.5,10.4
+2026-02-17,Suburb Mall,Produce,70.0,140.0,15.5
+2026-03-12,Suburb Mall,Beverages,108.0,270.0,20.3
+2026-02-01,Suburb Mall,Bakery,86.0,301.0,13.5
+2026-03-18,Uptown,Beverages,116.0,290.0,19.5
+2026-01-06,Suburb Mall,Produce,84.0,168.0,7.0
+2026-02-25,Suburb Mall,Beverages,126.0,315.0,17.2
+2026-03-12,Suburb Mall,Bakery,90.0,315.0,20.3
+2026-01-01,Downtown,Beverages,116.0,290.0,6.5
+2026-02-02,Riverside,Bakery,66.0,231.0,9.3
+2026-03-19,Riverside,Snacks,103.0,309.0,15.6
+2026-03-25,Downtown,Bakery,82.0,287.0,22.3
+2026-01-05,Uptown,Snacks,98.0,294.0,3.2
+2026-01-09,Riverside,Snacks,95.0,285.0,5.6
+2026-02-13,Uptown,Beverages,148.0,370.0,16.0
+2026-01-02,Uptown,Ice Cream,19.0,85.5,4.5
+2026-02-09,Uptown,Beverages,139.0,347.5,14.7
+2026-02-07,Uptown,Snacks,96.0,288.0,10.4
+2026-03-18,Riverside,Produce,45.0,90.0,19.5
+2026-02-07,Uptown,Bakery,80.0,280.0,10.4
+2026-03-26,Uptown,Snacks,114.0,342.0,18.3
+2026-03-17,Suburb Mall,Beverages,88.0,220.0,17.4
+2026-01-29,Suburb Mall,Produce,39.0,78.0,12.2
+2026-03-05,Suburb Mall,Snacks,95.0,285.0,17.0
+2026-01-28,Riverside,Ice Cream,33.0,148.5,6.5
+2026-03-28,Uptown,Snacks,105.0,315.0,20.1
+2026-02-16,Suburb Mall,Beverages,108.0,270.0,10.6
+2026-02-27,Suburb Mall,Beverages,133.0,,16.2
+2026-02-01,Uptown,Snacks,94.0,282.0,13.5
+2026-01-29,Uptown,Beverages,133.0,332.5,12.2
+2026-02-27,Uptown,Produce,55.0,110.0,16.2
+2026-01-01,Uptown,Produce,52.0,104.0,6.5
+2026-02-25,Downtown,Ice Cream,73.0,328.5,17.2
+2026-02-15,Riverside,Bakery,75.0,262.5,9.3
+2026-02-10,Uptown,Bakery,64.0,224.0,11.5
+2026-01-28,Downtown,Bakery,88.0,308.0,6.5
+2026-03-17,Uptown,Bakery,78.0,273.0,17.4
+2026-03-06,Uptown,Bakery,83.0,290.5,18.5
+2026-01-30,Uptown,Ice Cream,61.0,274.5,14.3
+2026-02-23,Suburb Mall,Bakery,92.0,322.0,15.3
+2026-01-20,Uptown,Bakery,72.0,252.0,11.9
+2026-03-26,Riverside,Produce,55.0,110.0,18.3
+2026-03-10,Suburb Mall,Snacks,85.0,255.0,15.7
+2026-03-17,Riverside,Snacks,89.0,267.0,17.4
+2026-03-21,Riverside,Beverages,122.0,305.0,21.6
+2026-01-13,Riverside,Beverages,109.0,272.5,13.4
+2026-01-23,Downtown,Bakery,75.0,262.5,6.6
+2026-01-09,Uptown,Beverages,121.0,302.5,5.6
+2026-01-26,Uptown,Beverages,96.0,240.0,3.8
+2026-01-14,Downtown,Produce,59.0,118.0,7.2
+2026-01-03,Riverside,Snacks,99.0,297.0,5.0
+2026-01-06,Uptown,Ice Cream,60.0,270.0,7.0
+2026-02-24,Downtown,Bakery,78.0,273.0,13.3
+2026-01-24,Suburb Mall,Bakery,,182.0,9.4
+2026-03-23,Downtown,Snacks,108.0,324.0,20.0
+2026-03-05,Downtown,Produce,48.0,96.0,17.0
+2026-01-25,Suburb Mall,Produce,49.0,98.0,7.0
+2026-03-02,Uptown,Beverages,122.0,305.0,16.7
+2026-02-01,Riverside,Snacks,85.0,255.0,13.5
+2026-01-24,Uptown,Snacks,89.0,267.0,9.4
+2026-02-18,Uptown,Produce,59.0,118.0,16.1
+2026-02-05,Riverside,Snacks,82.0,246.0,12.3
+2026-02-20,Downtown,Ice Cream,47.0,211.5,11.5
+2026-02-07,Uptown,Produce,65.0,130.0,10.4
+2026-01-10,Suburb Mall,Bakery,72.0,252.0,2.0
+2026-02-24,Downtown,Beverages,133.0,332.5,13.3
+2026-03-07,Downtown,Bakery,62.0,217.0,15.4
+2026-03-09,Suburb Mall,Beverages,115.0,287.5,20.7
+2026-01-10,Riverside,Beverages,,300.0,2.0
+2026-03-02,Riverside,Produce,65.0,130.0,16.7
+2026-03-19,Suburb Mall,Bakery,61.0,213.5,15.6
+2026-03-04,Uptown,Snacks,98.0,294.0,14.8
+2026-02-26,Suburb Mall,Bakery,74.0,259.0,9.3
+2026-01-08,Riverside,Snacks,93.0,279.0,2.2
+2026-03-16,Downtown,Produce,60.0,120.0,16.7
+2026-03-27,Riverside,Ice Cream,67.0,301.5,14.8
+2026-01-10,Uptown,Ice Cream,17.0,76.5,2.0
+2026-02-24,Suburb Mall,Ice Cream,42.0,189.0,13.3
+2026-02-06,Uptown,Produce,60.0,120.0,12.5
+2026-01-13,Downtown,Beverages,134.0,335.0,13.4
+2026-01-08,Uptown,Beverages,118.0,,2.2
+2026-01-29,Downtown,Ice Cream,40.0,180.0,12.2
+2026-01-13,Suburb Mall,Beverages,116.0,290.0,13.4
+2026-01-05,Suburb Mall,Beverages,99.0,247.5,3.2
+2026-03-23,Riverside,Produce,68.0,136.0,20.0
+2026-03-29,Downtown,Bakery,79.0,,23.7
+2026-03-11,Suburb Mall,Beverages,130.0,325.0,16.6
+2026-03-11,Riverside,Produce,56.0,112.0,16.6
+2026-03-18,Suburb Mall,Produce,68.0,136.0,19.5
+2026-01-21,Riverside,Ice Cream,62.0,279.0,14.5
+2026-03-17,Suburb Mall,Ice Cream,73.0,328.5,17.4
+2026-03-25,Downtown,Ice Cream,88.0,396.0,22.3
+2026-03-01,Uptown,Beverages,110.0,275.0,19.7
+2026-01-22,Uptown,Snacks,83.0,249.0,8.4
+2026-01-13,Downtown,Bakery,86.0,301.0,13.4
+2026-02-04,Downtown,Beverages,133.0,332.5,10.6
+2026-03-14,Downtown,Beverages,100.0,250.0,14.8
+2026-01-18,Downtown,Bakery,86.0,301.0,7.0
+2026-02-17,Riverside,Produce,63.0,126.0,15.5
+2026-03-09,Uptown,Snacks,87.0,261.0,20.7
+2026-03-21,Uptown,Beverages,125.0,312.5,21.6
+2026-03-25,Riverside,Ice Cream,75.0,337.5,22.3
+2026-02-22,Riverside,Produce,50.0,100.0,15.8
+2026-03-11,Suburb Mall,Ice Cream,64.0,288.0,16.6
+2026-01-24,Riverside,Ice Cream,25.0,112.5,9.4
+2026-02-05,Uptown,Snacks,83.0,249.0,12.3
+2026-01-03,Suburb Mall,Snacks,99.0,297.0,5.0
+2026-03-17,Riverside,Beverages,125.0,312.5,17.4
+2026-03-18,Riverside,Bakery,71.0,248.5,19.5
+2026-01-22,Downtown,Ice Cream,19.0,85.5,8.4
+2026-03-28,Suburb Mall,Ice Cream,72.0,,20.1
+2026-01-08,Uptown,Produce,61.0,122.0,2.2
+2026-01-27,Riverside,Bakery,74.0,259.0,11.1
+2026-01-10,Downtown,Bakery,51.0,178.5,2.0
+2026-02-21,Downtown,Produce,43.0,86.0,14.9
+2026-03-12,Riverside,Snacks,115.0,345.0,20.3
+2026-03-21,Uptown,Bakery,85.0,297.5,21.6
+2026-02-27,Riverside,Beverages,106.0,265.0,16.2
+2026-03-07,Suburb Mall,Bakery,81.0,283.5,15.4
+2026-02-23,Uptown,Bakery,80.0,280.0,15.3
+2026-02-17,Uptown,Snacks,80.0,240.0,15.5
+2026-03-27,Downtown,Beverages,118.0,295.0,14.8
+2026-03-08,Suburb Mall,Ice Cream,81.0,364.5,19.9
+2026-02-17,Riverside,Snacks,99.0,297.0,15.5
+2026-02-11,Downtown,Bakery,63.0,220.5,7.3
+2026-03-23,Riverside,Beverages,98.0,245.0,20.0
+2026-01-06,Uptown,Produce,62.0,124.0,7.0
+2026-03-31,Uptown,Bakery,54.0,189.0,18.6
+2026-02-24,Downtown,Ice Cream,35.0,157.5,13.3
+2026-01-20,Riverside,Bakery,86.0,301.0,11.9
+2026-02-10,Suburb Mall,Bakery,78.0,273.0,11.5
+2026-01-23,Suburb Mall,Snacks,101.0,303.0,6.6
+2026-03-23,Downtown,Bakery,72.0,252.0,20.0
+2026-01-19,Downtown,Beverages,112.0,280.0,14.6
+2026-02-05,Uptown,Produce,52.0,104.0,12.3
+2026-01-22,Suburb Mall,Produce,59.0,118.0,8.4
+2026-01-09,Riverside,Produce,63.0,126.0,5.6
+2026-02-27,Uptown,Snacks,93.0,279.0,16.2
